@@ -1,0 +1,85 @@
+{
+  "title": "Proizvodnja - prerade ribe",
+  "breadcrumbs": [
+    {
+      "name": "Početna",
+      "link": ""
+    },
+    {
+      "name": "Proizvodnja - prerade ribe",
+      "link": "production"
+    }
+  ],
+  "standards": [
+    {
+      "text": "Naša proizvodnja poseduje najviše ocene iz oblasti higijensko sanitarnih primenjenih mera."
+    },
+    {
+      "text": "Zaposleni, sa dugim stažom i iskustvom, spremno i ovladanim tehnikama odgovaraju na najzahtevnije procese filetiranja i pripreme ribe za konzumaciju."
+    },
+    {
+      "text": "Oprema i mašine kojima raspolažemo su najnovije generacije proizvodnje i ispunjavaju sve zahteve tržišta Evrope."
+    },
+
+    {
+      "text": "Mi čistimo, filetiramo i dorađujemo ribu i plodove mora kako bi se približili potrošaču i konzumentu."
+    },
+    {
+      "text": "Procesi rada i ambalaža koju koristimo je potpuno u skladu sa aktuelnim ekološkim zahtevima."
+    }
+  ],
+  "privateBrand": {
+    "title": "Privatne robne marke - Uslužna prerada i pakovanje.",
+    "description": [
+      {
+        "text": "Obrt robe koju <strong>Principal Duo</strong> uvozi je mnogostruko veća od konkurentskih firmi. Roba je uvek sveža. U novom pogonu, sa savremenom opremom u oblasti prerade i pakovanja ribe sa već ustanovljenom dobrom proizvođačkom praksom, pakujemo privatne robne marke za veliki broj klijenata."
+      },
+      {
+        "text": "Kvalitet pakovanih proizvoda je odlično izbalansiran u zavisnosti od jasno definsanih želja matičnih kuća za koje se roba prerađuje i pakuje u našoj organizaciji."
+      }
+    ]
+  },
+  "preparingTitle": "Priprema za dalju prodaju",
+  "cleaning": {
+    "title": "Čišćenje.",
+    "description": [
+      {
+        "text": "Čišćenje ribe i plodova je proces kojim od celih riba pravimo pozicije koje su zahtevane od kupca. Svake godine se ti procesi proveravaju i ponovno licenciraju u skladu sa Intenacionalnim standarardima u pripremi hrane."
+      },
+      {
+        "text": "Nakon naše dorade,čišćenja,potrošač može pristupiti termičkoj obradi i konzumiranju proizvoda."
+      }
+    ],
+    "imageSrc": "/images/production/dedicated-fish.jpg",
+    "seeVideo": "Pogledaj video",
+    "videoSrc": "/videos/production/ciscenje.mp4"
+  },
+  "filleting": {
+    "title": "Filetiranje.",
+    "description": [
+      {
+        "text": "Filetiranje je proces odvajanja mesa ribe od kostiju. Proces filetiranja, za sada, radimo ručno."
+      },
+      {
+        "text": "Nakon isecanja dela ribe bez kostiju, još jednom se vrši provera prisustva kostiju unutar fileta, kao dodatni stepen kontrole. Pakuje se prema zahtevu KA ili potrošača u odgovarajuće veličine i načine proizvodnje. Ukoliko se ukaže potreba zbog potražnje tržišta, mogu biti uključene i mašine za filetiranje."
+      }
+    ],
+    "imageSrc": "/images/production/skilled-worker.jpg",
+    "seeVideo": "Pogledaj video",
+    "videoSrc": "/videos/production/filetiranje.mp4"
+  },
+  "smoking": {
+    "title": "Dimljenje.",
+    "description": [
+      {
+        "text": "Dimljenje ribe je proces koji je izuzetno zastupljen u SEVERNOJ HEMISFERI kao način prezervacije odnosno čuvanja proizvoda. Deli se na hladno i toplo dimljenje."
+      },
+      {
+        "text": "Na našem tržištu,svega nekoliko artikala je prepoznato - dimljeni šaran, pastrmka i losos. Mi ih spremamo i dimimo u zavisnosti od potražnje. Preko cele godine imamo raspoložive količine navedenih proizvoda."
+      }
+    ],
+    "imageSrc": "/images/production/smoked-fish.jpg",
+    "seeVideo": "Pogledaj video",
+    "videoSrc": "/videos/production/dimljenje.mp4"
+  }
+}

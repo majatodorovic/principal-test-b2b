@@ -1,0 +1,235 @@
+{
+  "hero": {
+    "title": "<span>Kvalitet</span> iz dubina, <br />pravo na vaš sto.",
+    "subTitle": "24. godine tradicije i postojanja govore o<br />velikim kvalitetima i snažnim potencijalima<br />koje ova kuća poseduje.",
+    "exploreProductsButton": "Istražite proizvode"
+  },
+  "leader": {
+    "title": "Zašto smo lideri </br> na tržištu.",
+    "description": "Uvoz, prerada, proizvodnja, reeksport, distribucija zastupljena u Srbiji, ali i u zemijama u okruženju, glavne su delatnosti kompanije <strong>Principal Duo</strong>, koja uspešno stvara i posluje od 2001. godine. Kompanja je u zajedničkom vlasništvu porodice Stojimirović iz Srbije i porodice Duering iz Nemačke.",
+    "aboutUsButton": "Više o nama",
+    "loyaltyCards": [
+      {
+        "title": "Pouzdanost",
+        "description": "Naša kompanija zapošljava preko 100 radnika, s dnevnim kapacitetom proizvodnje od 5000 tona i skladišnim prostorom za 3000 tona. Sa više od 50 specijalizovanih dostavnih vozila, obezbeđujemo brzu i sigurnu isporuku širom zemlje."
+      },
+      {
+        "title": "Kvalitet",
+        "description": "Naše poslovanje zasniva se na poštovanju međunarodno priznatih standarda kvaliteta, čime garantujemo vrhunsku pouzdanost i profesionalizam. Posebnu pažnju posvećujemo usklađenosti između dogovorenog i isporučenog kvaliteta robe, kako bismo ispunili i premašili očekivanja naših klijenata."
+      },
+      {
+        "title": "Profesionalnost",
+        "description": "Naš tim čine visoko edukovani stručnjaci u svim sektorima poslovanja, čime osiguravamo visok nivo profesionalnosti i efikasnosti. Uz to, pružamo konstantnu ponudu robe tokom cele godine, zadovoljavajući potrebe naših klijenata u svakom trenutku."
+      },
+      {
+        "title": "Usmerenost na klijenta",
+        "description": "Zadovoljstvo naših kupaca je naš glavni cilj i moto! Svakodnevno težimo da ispunimo njihove potrebe i očekivanja, gradeći dugoročne odnose zasnovane na poverenju i kvalitetu."
+      }
+    ],
+    "numberCards": [
+      {
+        "icon": "/images/home/leader/cold-storage.png",
+        "number": 2500,
+        "numberPreffix": "+",
+        "numberSuffix": "t",
+        "text": "Kapacitet hladnjača"
+      },
+      {
+        "icon": "/images/home/leader/fish.png",
+        "number": 10,
+        "numberPreffix": "+",
+        "numberSuffix": "Mt",
+        "text": "Dnevna prerada ribe"
+      },
+      {
+        "icon": "/images/home/leader/forklift.png",
+        "number": 2500,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Istovarna mesta"
+      },
+      {
+        "icon": "/images/home/leader/delivery.png",
+        "number": 50,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Distribucija vozni park"
+      },
+      {
+        "icon": "/images/home/leader/group.png",
+        "number": 115,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Zaposleni"
+      },
+      {
+        "icon": "/images/home/leader/experience.png",
+        "number": 24,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Godina iskustva"
+      },
+      {
+        "icon": "/images/home/leader/wholesale.png",
+        "number": 3,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "VP Centri"
+      },
+      {
+        "icon": "/images/home/leader/retail.png",
+        "number": 2,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "MP Centri"
+      }
+    ]
+  },
+  "brand": {
+    "title": "Barka, brend </br> premium proizvoda.",
+    "description": "Regionalno prepoznatljiv i prisutan u velikim trgovinskim korporacijama, HoReCa sektoru, supermarketima u Srbiji i boljim marketima u državama okruženja, brend <strong>„BARKA“</strong>, bezkompromisno ne naseda na utakmicu sa privatnim robnim markama gde isključivo cena odlučuje koji će proizvod biti spakovan, već skoro lucidno ostaje pri uverenju da pakuje samo i isključivo najkvalitetnije ribe i plodove mora koji se mogu ponuditi srpskom tržištu.",
+    "exploreMoreButton": "Istražite više"
+  },
+  "sales": {
+    "title": "Naši prodajni </br> kapaciteti.",
+    "seeOfferButton": "Pogledajte ponudu",
+    "groupButton": [
+      {
+        "title": "Rasprostranjenost proizvoda",
+        "cards": [
+          {
+            "icon": "/images/home/sales/market.png",
+            "number": 62,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Marketi, KA, LKA"
+          },
+          {
+            "icon": "/images/home/sales/resort.png",
+            "number": 12,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Restorani, hoteli, ketering"
+          },
+          {
+            "icon": "/images/home/sales/fish-market.png",
+            "number": 17,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Ribarnice"
+          },
+          {
+            "icon": "/images/home/sales/government.png",
+            "number": 9,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Tenderski kupci"
+          }
+        ]
+      },
+      {
+        "title": "Raspoloživost prodajnog sektora",
+        "cards": [
+          {
+            "icon": "/images/home/leader/articles.png",
+            "number": 240,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Ukupan broj artikala"
+          },
+          {
+            "icon": "/images/home/leader/horeca.png",
+            "number": 90,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Ukupan broj artikala za HoReCa kupce"
+          },
+          {
+            "icon": "/images/home/leader/users.png",
+            "number": 1125,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Broj aktivnih kupaca"
+          },
+          {
+            "icon": "/images/home/leader/magazine.png",
+            "number": 2000,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Broj istovarnih mesta"
+          }
+        ]
+      }
+    ]
+  },
+  "processing": {
+    "title": "Proizvodnja i </br> prerada ribe.",
+    "description": [
+      {
+        "text": "Naša proizvodnja poseduje najviše ocene iz oblasti higijensko santarnih primenjenih mera."
+      },
+      {
+        "text": "Zaposleni, sa dugim stažom i iskustvom, spremnim i ovladanim tehnikama odgovaraju na najzahtevnje procese filetiranja i pripreme ribe ze konzuamciju."
+      },
+      {
+        "text": "Mi čistimo, filetiramo i obrađujemo ribu i plodove mora kako bi se približili potrošaču i konzumentu."
+      },
+      {
+        "text": "Procesi rada i ambalaža koju koristimo je potpuno u skladu sa aktuelnim tržišnim zahtevima."
+      }
+    ],
+    "exploreMoreButton": "Istražite više"
+  },
+  "distribution": {
+    "title1": "Priprema za </br> dalju prodaju.",
+    "preparation": [
+      {
+        "title": "Privatne robne </br> marke",
+        "imageSrc": "/images/home/distribution/private-brand.jpg"
+      },
+      {
+        "title": "Čišćenje",
+        "imageSrc": "/images/home/distribution/cleaning.jpg"
+      },
+      {
+        "title": "Filetiranje",
+        "imageSrc": "/images/home/distribution/filtering.jpg"
+      },
+      {
+        "title": "Dimljenje",
+        "imageSrc": "/images/home/distribution/smoking.jpg"
+      }
+    ],
+    "title2": "Vaš partner za efikasnu </br> distribuciju.",
+    "description": [
+      {
+        "text": "Vozni park kompanije DOO PRINCIPAL DUO sastoji se od 50 specijalizovanih vozila tačno predviđenih za našu delatnost, a za potrebe distribucije, nabavke robe i u komercijalne svrhe."
+      },
+      {
+        "text": "Trenutni dnevni obrt prodaje je do 12t,što u potpunosti podržavamo vlastitim voznim parkom i kvalifikovanim logističkim timom."
+      },
+      {
+        "text": "Investicije u proteklom periodu su apsolutno bile okrenute povećanju mobilnosti, dovođenju brzine dostave robe do granice mogućeg, što je rezultiralo činjenicom da se naši kupci mogu osloniti na rok isporuke i pouzdanost u svakom smislu,kao na jedan od veoma bitnih faktora, od trenutka trebovanja robe u telefonskom kontekstu, do trenutna isporuke robe na mesto prodaje."
+      }
+    ],
+    "exploreMoreButton": "Istražite više",
+    "video": [
+      "/videos/home/distribucija.mp4"
+    ],
+    "images": [
+     
+      "/images/home/distribution/distribution-1.jpg",
+      "/images/home/distribution/distribution-2.jpg",
+      "/images/home/distribution/distibucija-3.jpg",
+      "/images/home/distribution/distibucija-4.jpg",
+      "/images/home/distribution/distibucija-5.jpg",
+      "/images/home/distribution/distibucija-6.jpg",
+      "/images/home/distribution/distibucija-7.jpg",
+      "/images/home/distribution/distibucija-8.jpg",
+      "/images/home/distribution/distibucija-9.jpg",
+      "/images/home/distribution/distibucija-10.jpg",
+      "/images/home/distribution/distibucija-11.jpg",
+      "/images/home/distribution/distibucija-12.jpg"
+    ]
+  }
+}

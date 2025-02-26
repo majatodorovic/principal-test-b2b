@@ -1,0 +1,95 @@
+{
+  "title": "Kontakt",
+  "breadcrumbs": [
+    {
+      "name": "Početna",
+      "link": ""
+    },
+    {
+      "name": "Kontakt",
+      "link": "contact"
+    }
+  ],
+  "wholesale": {
+    "title": "Veleprodaja",
+    "description": [
+      {
+        "name": "Veleprodaja Čačak",
+        "address": "Đakona Avakuma 134, </br> 32000 Čačak, Srbija",
+        "phone": [{ "number": "Tel/Fax: +381 32 370 790" }],
+        "email": "firma@principalduo.com"
+      },
+      {
+        "name": "Veleprodaja Sopot",
+        "address": "Karađorđeva 7, </br> 21000 Đurinci, Srbija",
+        "phone": [{ "number": "Tel/Fax: +381 11 283 4 631" }],
+        "email": "sopot@principalduo.com"
+      },
+      {
+        "name": "Veleprodaja Novi Sad",
+        "address": "Temerinski put 46, </br> 11450 Novi Sad, Srbija",
+        "phone": [
+          {
+            "number": "Tel: +381 63 667358"
+          }
+        ],
+        "email": ""
+      }
+    ]
+  },
+  "retail": {
+    "title": "Maloprodaja",
+    "description": [
+      {
+        "name": "Maloprodaja Čačak 1",
+        "address": "Obilićeva 5, </br> 32000 Čačak, Srbija",
+        "phone": [
+          {
+            "number": "Tel: + 381 32 325 242"
+          },
+          { "number": "Mob: + 381 63 668 461" }
+        ],
+        "email": ""
+      },
+      {
+        "name": "Maloprodaja Čačak 2",
+        "address": "Vladike Nikolaja Velimirovića 32, </br> 32000 Čačak, Srbija",
+        "phone": [{ "number": "Tel: + 381 32 531 1000" }],
+        "email": ""
+      }
+    ],
+    "pdfText": "Podaci o identifikaciji </br> Principal DOO",
+    "pdfButton": "Preuzmite ovde"
+  },
+  "form": {
+    "firstName": "Ime",
+    "lastName": "Prezime",
+    "phone": "Kontakt telefon",
+    "email": "Email",
+    "message": "Upit/Vaša poruka",
+    "sendButton": "Pošaljite",
+    "footnote": "<strong>Napomena:</strong> Vaši kontakt podaci neće biti objavljeni niti iskorišćeni, poštujući propise Pravilnika o zaštiti podataka o ličnosti (Sl.glasnik RS,BR.87/2018.)"
+  },
+  "locations": [
+    {
+      "position": [43.88903592859367, 20.3508146379093],
+      "text": "Maloprodaja Čačak 1"
+    },
+    {
+      "position": [43.86091151936673, 20.390989628392298],
+      "text": "Veleprodaja Čačak"
+    },
+    {
+      "position": [44.52727658035047, 20.57307492964115],
+      "text": "Veleprodaja Sopot"
+    },
+    {
+      "position": [43.888077607167936, 20.32624021917981],
+      "text": "Maloprodaja Čačak 2"
+    },
+    {
+      "position": [45.30242643178282, 19.830643948309735],
+      "text": "Veleprodaja Novi Sad"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "About Us",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "link": ""
+    },
+    {
+      "name": "About Us",
+      "link": "about-us"
+    }
+  ],
+  "description1": [
+    {
+      "text": "Import, processing, production, re-export, and distribution, represented in Serbia as well as in neighboring countries, are the main activities of the company <strong>PRINCIPAL DUO</strong>, which has been successfully operating since 2001."
+    },
+    {
+      "text": "The company <strong>PRINCIPAL DUO</strong> is jointly owned by the Stojimirović family from Serbia and the Duering family from Germany. Our business approach, high goals, development of all company segments, and capabilities based on European standards are reflected in customer satisfaction and the fact that <strong>PRINCIPAL DUO</strong> is now present in all major markets in both Serbia and the surrounding region."
+    },
+    {
+      "text": "Driven by the goal of making <strong>PRINCIPAL DUO</strong> recognized as a high-quality, stable, and long-term business partner, we expanded our operations by establishing a Wholesale Center in Čačak with state-of-the-art working conditions in production, storage, as well as Wholesale Centers in Sopot and Novi Sad, with a total cold storage capacity of over 2500MT. Daily processing and freezing of fish is up to 10MT. At this moment, the company operates its own fleet of 50 specialized vehicles, tailored to market needs, ranging from 1 to 22MT."
+    }
+  ],
+  "description2": [
+    {
+      "text": "Retail outlets known by our brand name <strong>„BARKA“</strong>, owned by the company, are well recognized by customers for offering a wide range of fish, frozen fruits and vegetables, as well as daily offerings of traditional dishes, salads, and desserts, including delivery services."
+    },
+    {
+      "text": "The team of <strong>PRINCIPAL DUO</strong> consists of over 100 people, to whom, alongside financial stability, personal development in their respective fields is always offered. Focused on the needs of our customers, we adapt quality and adopt globally recognized standards in the fish business. Operating according to high hygiene and health standards, continually improving service and product quality, we proudly serve over 2500 delivery points in Serbia as well as in other countries in the region."
+    },
+    {
+      "text": "By promoting our domestic, licensed brand <strong>„BARKA“</strong> as a symbol of safe products of the highest quality and other brands, expanding cooperation with major clients, and working on their private labels, while maintaining a diverse, innovative, and prosperous market presence in the fish and seafood sector, we aim to achieve regional leadership and elevate the entire business to a higher level."
+    }
+  ],
+  "images": [
+    {
+      "imageSrc": "/images/about-us/about-us-1.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-2.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-3.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-4.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-5.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-6.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-7.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "O nama",
+  "breadcrumbs": [
+    {
+      "name": "Početna",
+      "link": ""
+    },
+    {
+      "name": "O nama",
+      "link": "about-us"
+    }
+  ],
+  "description1": [
+    {
+      "text": "Uvoz, prerada, proizvodnja, reeksport, distribucija zastupljena u Srbiji, ali i u zemljama u okruženju, glavne su delatnosti kompanije <strong>PRINCIPAL DUO</strong>, koja uspešno stvara i posluje od 2001.godine."
+    },
+    {
+      "text": "Kompanija <strong>PRINCIPAL DUO</strong> je u zajedničkom vlasništvu porodice Stojimirović iz Srbije i porodice Duering iz Nemačke. O načinu našeg poslovanja, visokim ciljevima, razvoju svih segmenata kompanije kao i njenim mogućnostima baziranim na evropskim standardima, govori i zadovoljstvo kupaca i činjenica da je danas <strong>PRINCIPAL DUO</strong> prisutan u svim boljim marketima, kako u Srbiji tako i u okruženju."
+    },
+    {
+      "text": "Vođeni ciljem da kompanija <strong>PRINCIPAL DUO</strong> bude prepoznatljiva kao kvalitetan, stabilan i dugoročan poslovni partner, proširili smo svoje poslovanje formiranjem Veleprodajnog Centra u Čačku sa najsavremenijim uslovima rada u oblasti proizvodnje, skladištenja, kao i Veleprodajnog Centra u Sopotu i Novom Sadu, ukupnog kapaciteta hladnjača preko 2500MT. Dnevna prerada i smrzavanje ribe je do 10MT. U ovom momentu, kompanija raspolaže sopstvenim voznim parkom od 50 specijalizovanih vozila, prilagođenim potrebama tržišta, od 1 do 22MT."
+    }
+  ],
+  "description2": [
+    {
+      "text": "Maloprodajni objekti prepoznatljivi po nazivu našeg brenda <strong>„BARKA“</strong>, koji su u vlasništvu kompanije, kupcima su znani po ponudi širokog asortimana ribe, smrznutog voća i povrća, ali i svakodnevnoj ponudi tracionalnih jela, salata i slatkog programa, kao i dostavi iste."
+    },
+    {
+      "text": "Tim <strong>PRINCIPAL DUO</strong> broji preko 100 ljudi kojima je, pored finansijske stabilnosti, uvek ponuđeno i lično usavršavanje u delatnostima za koje su angažovani. Skoncentrisani na želje naših kupaca, prilagođavamo kvalitet,ali usvajamo i svetski priznate standarde u poslu sa ribom.  Poslovanjem po visokim higijensko-zdravstvenim standardima, svakodnevnim unapređenjem kvaliteta usluge i proizvoda, možemo se pohvaliti sa preko 2500 istovarnih mesta, u Srbiji, ali i u zemljama regiona."
+    },
+    {
+      "text": "Promovisanjem našeg domaćeg, licenciranog brenda <strong>„BARKA“</strong> kao sinonim bezbednog proizvoda vrhunskog kvaliteta i ostalih robnih marki, proširenjem saradnje sa značajnim kupcima i rada na polju njihovih privatnih robnih marki,očuvanjem raznovrsnog, inovativnog i prosperitetnog nastupa na tržištu u plasmanu ribe i plodova mora, težićemo ostvarenju pozicije regionalnog lidera kao i na izdizanju kompletnog poslovanja na još viši nivo."
+    }
+  ],
+  "images": [
+    {
+      "imageSrc": "/images/about-us/about-us-1.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-2.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-3.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-4.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-5.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-6.jpg"
+    },
+    {
+      "imageSrc": "/images/about-us/about-us-7.jpg"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Import",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "link": ""
+    },
+    {
+      "name": "Import",
+      "link": "import"
+    }
+  ],
+  "results": {
+    "description": [
+      {
+        "text": "As in any other serious business, the world of true, globally significant players in the fish industry is not large. Our task was to bypass traders and connect directly with producers. In our field, producers are ship owners who operate as factories for fishing, production, freezing of fish, and fish products. Considering that Serbia, compared to global giants, is not a strategic country in the fish business, the name Principal Duo is highly recognizable. The image built over the years ensures that information about quota allocation for fishing, fish catch, and global sales trends comes to us firsthand, directly from the source without intermediaries."
+      },
+      {
+        "text": "Therefore, after gathering all information from producers and considering our specific needs for a given month or several months, we place fish orders. Fish is caught in almost every sea, so we must have access to all this information, as ordering sometimes takes place months in advance, i.e., before the goods arrive at our warehouse."
+      },
+      {
+        "text": "Reports on our sales from previous years, current customer demands, food trends, and recent catches of fish previously sold by us, as well as potential substitutes, are crucial in making decisions for importing. After agreements and meeting supplier business conditions, overseas transport is arranged, and permits, routes, and all parameters for the safe arrival of goods at our warehouse are finalized."
+      }
+    ],
+    "cards": [
+      {
+        "icon": "/images/import/results/agreement.png",
+        "number": 100,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Suppliers from around the world"
+      },
+      {
+        "icon": "/images/import/results/service.png",
+        "number": 2007,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "HACCP"
+      },
+      {
+        "icon": "/images/import/results/regulatory.png",
+        "number": 2010,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "IFS"
+      },
+      {
+        "icon": "/images/import/results/results.png",
+        "number": 98,
+        "numberPreffix": "",
+        "numberSuffix": "%",
+        "text": "Certification results"
+      },
+      {
+        "icon": "/images/import/results/save-the-world.png",
+        "number": 100,
+        "numberPreffix": "",
+        "numberSuffix": "%",
+        "text": "Commitment to sustainability"
+      }
+    ]
+  },
+  "world": {
+    "products": [
+      {
+        "text": "Belgium, Germany, </br> Netherlands",
+        "imageSrc": "/images/import/world/fries.png"
+      },
+      {
+        "text": "Estonia, Spain,</br> Lithuania",
+        "imageSrc": "/images/import/world/filets.png"
+      },
+      {
+        "text": "Spain, Argentina, Vietnam, </br> China, Germany, Canada, </br> USA, Uruguay",
+        "imageSrc": "/images/import/world/fish.png"
+      }
+    ]
+  },
+  "quality": {
+    "titleOne": "Quality (certificates).",
+    "description": [
+      {
+        "text": "Principal Duo has aligned its operations with the requirements of the Codex Alimentarius Commission/Recommended International Code of Practice General Principles of Food Hygiene – HACCP since 2007, as well as the IFS (International Food Standard) requirements since 2010."
+      },
+      {
+        "text": "Annual re-certifications are conducted by renowned certification bodies, and we pride ourselves on high ratings for our business operations and quality improvements. These results are a testament to the responsibility of all employees, whose teamwork contributes to the continuous improvement of the effectiveness of the quality management and HACCP systems."
+      },
+      {
+        "text": "The entire chain, from raw material reception to product delivery to customers, is regulated by processes covered by the HACCP standard, good manufacturing, and good hygiene practices (GMP and GHP)."
+      }
+    ],
+    "titleTwo": "Certification success consistently </br> at a high level."
+  },
+  "sustainability": {
+    "title": "Sustainability and environmental protection.",
+    "text1": "The task of <strong>Principal Duo</strong> as a market leader in the frozen food sector is to source raw materials from sustainable resources and collaborate with producers who are members of global sustainability initiatives.",
+    "text2": "The goal of <strong>Principal Duo</strong>'s management is to educate employees, customers, and end consumers about the company's objectives related to environmental protection activities.",
+    "text3": "The activities we conduct daily are based on the following principles:",
+    "activities": [
+      {
+        "text": "Sourcing fish from sustainable fish stocks"
+      },
+      {
+        "text": "Optimizing water and electricity consumption"
+      },
+      {
+        "text": "Reducing noise emissions in the workplace and environment"
+      },
+      {
+        "text": "Recycling waste"
+      }
+    ],
+    "text4": "We continuously work on improving business performance to implement new technologies that enhance company efficiency while protecting the environment."
+  }
+}

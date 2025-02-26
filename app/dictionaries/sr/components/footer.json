@@ -1,0 +1,80 @@
+{
+  "social": [
+    {
+      "imageSrc": "/images/footer/facebook.png",
+      "link": "https://www.facebook.com/p/Principal-duo-100076362528904/?locale=sr_RS"
+    },
+    {
+      "imageSrc": "/images/footer/instagram.png",
+      "link": "https://www.instagram.com/principal.duo/?hl=en"
+    }
+  ],
+  "locations": [
+    {
+      "title": "Veleprodaja Čačak",
+      "address": "Đakona Avakuma 134, </br> 32000 Čačak, Srbija",
+      "phone": "Tel/Fax: +381 32 370 790",
+      "email": "firma@principalduo.com"
+    },
+    {
+      "title": "Veleprodaja Sopot",
+      "address": "Karađorđeva 7, </br> 21000 Đurinci, Srbija",
+      "phone": "Tel/Fax: +381 11 283 4 631",
+      "email": "sopot@principalduo.com"
+    },
+    {
+      "title": "Veleprodaja Novi Sad",
+      "address": "Temerinski put 46, </br> 11450 Novi Sad, Srbija",
+      "phone": "Tel/Fax: +381 21 673 6 936",
+      "email": "officenovisad@principalduo.com"
+    }
+  ],
+  "links": {
+    "title": "Informacije",
+    "items": [
+      {
+        "text": "Početna",
+        "href": ""
+      },
+      {
+        "text": "Uvoz",
+        "href": "/import"
+      },
+      {
+        "text": "Ponuda",
+        "href": "/offer"
+      },
+      {
+        "text": "Proizvodnja",
+        "href": "/production"
+      },
+      {
+        "text": "Ribarnice",
+        "href": "/fishmarkets"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/contact"
+      },
+      {
+        "text": "Barka",
+        "href": "/barka"
+      },
+      {
+        "text": "O nama",
+        "href": "/about-us"
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "description": "Prijavite se na naš newsletter i prvi saznajte za najnovije proizvode.",
+    "placeholder": "Unesite email adresu",
+    "button": "Pošaljite"
+  },
+  "copyright": "© 2024 Principal Duo DOO | Sva prava zadržana. Powered by &nbsp;<a href='https://www.croonus.com/' target='_blank'>Croonus Technologies</a>"
+}

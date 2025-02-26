@@ -1,0 +1,1443 @@
+{
+  "title": "Barka - Brend premium proizvoda",
+  "breadcrumbs": [
+    {
+      "name": "Početna",
+      "link": ""
+    },
+    {
+      "name": "Barka",
+      "link": "barka"
+    }
+  ],
+  "about": [
+    {
+      "text": "Regionalno prepoznatljiv i prisutan u velikim trgovinskim korporacijama, HoReCa sektoru, supermarketima u Srbiji i boljim marketima u državama okruženja, brend <strong>„BARKA“</strong>, bezkompromisno ne naseda na utakmicu sa privatnim robnim markama gde isključivo cena odlučuje koji će proizvod biti spakovan, već skoro lucidno ostaje pri uverenju da pakuje samo i isključivo najkvalitetnije ribe i plodove mora koji se mogu ponuditi srpskom tržištu."
+    },
+    {
+      "text": "Potrošači su potpuno sigurni da, odabirom <strong>„BARKA“</strong> brenda, imaju ribu i plodove mora tretirane po najvišim standardima kvaliteta."
+    },
+    {
+      "text": "Dugogodišnje resertifikacije HACCP, IFS-a i drugih zahtevnih međunarodnih standarda, povrđuju potpunu posvećenost <strong>„BARKA“</strong> tima."
+    }
+  ],
+  "products": [
+    {
+      "title": "CRVENA RIBA BARKA ",
+      "imageSrc": "/images/barka/crvena-riba.jpg",
+      "description": [
+        {
+          "text": "U proizvodnji kompanije PRINCIPAL DUO vrši se prerada uvezenog proizvoda,pre svega u smislu »šišanja« tj. odstranjivanja bodlje i pakovanja u finalni proizvod CRVENA RIBA BARKA."
+        },
+
+        {
+          "text": "Jedna je od najkvalitetnijih riba koja ima svoje mesto u srpskoj kuhinji,bez obzira na njenu nešto veću cenovnu vrednost u odnosu na druge artikle iz ponude."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Nemačka"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "DAGNJE OČIŠĆENE BARKA ",
+      "imageSrc": "/images/barka/dagnje-ociscene-1kg.jpg",
+      "description": [
+        {
+          "text": "Stanovnici mora nastanjeni ne tako daleko od obale,uvoze se sa područja Galicije ili Čilea.Njihova posebna vrednost ogleda se u kompletnom proizvodu do koga se dolazi »branjem« školjki,bez termičke obrade.Ipak,osluškujući želje potrošača i srpskog tržišta,dagnje se uglavnom u ponudi mogu naći kao obrađen ,očišćen proizvod."
+        },
+        {
+          "text": "Upravo,Dagnje očišćene BARKA predstavljaju PREMIUM proizvod pažljivo odabranog uvoznog kvaliteta i obrade do finalnog proizvoda."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Čile"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1kg"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "DAGNJE OČIŠĆENE BARKA ",
+      "imageSrc": "/images/barka/dagnje-ociscene-1kg.jpg",
+      "description": [
+        {
+          "text": "Stanovnici mora nastanjeni ne tako daleko od obale,uvoze se sa područja Galicije ili Čilea.Njihova posebna vrednost ogleda se u kompletnom proizvodu do koga se dolazi »branjem« školjki,bez termičke obrade.Ipak,osluškujući želje potrošača i srpskog tržišta,dagnje se uglavnom u ponudi mogu naći kao obrađen ,očišćen proizvod."
+        },
+        {
+          "text": "Upravo,Dagnje očišćene BARKA predstavljaju PREMIUM proizvod pažljivo odabranog uvoznog kvaliteta i obrade do finalnog proizvoda."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Čile"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 400g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "20 kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "GAMBORI OČIŠĆENI BARKA",
+      "imageSrc": "/images/barka/gambori-ocisceni-1kg.jpg",
+      "description": [
+        {
+          "text": "Proizvod iz grupe plodova mora koji potiče iz divljeg ulova,hrani se planktonima,delovima razgrađenog biljnog sveta. Gambori mogu biti i iz uzgoja,a taj proces podrazumeva period gajenja od larve do gotovog proizvoda.Tako formirani ,prerađeni,pakovani po strogo kontrolisanim uslovima uz poštovanje zakonskih odredbi i EU zahteva,nastao je naš proizvod GAMBORI OČIŠĆENI BARKA."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Kina"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1kg"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "GAMBORI OČIŠĆENI BARKA",
+      "imageSrc": "/images/barka/gambori-ocisceni-400g.jpg",
+      "description": [
+        {
+          "text": "Proizvod iz grupe plodova mora koji potiče iz divljeg ulova,hrani se planktonima,delovima razgrađenog biljnog sveta. Gambori mogu biti i iz uzgoja,a taj proces podrazumeva period gajenja od larve do gotovog proizvoda.Tako formirani ,prerađeni,pakovani po strogo kontrolisanim uslovima uz poštovanje zakonskih odredbi i EU zahteva,nastao je naš proizvod GAMBORI OČIŠĆENI BARKA."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Kina"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 400g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "20kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "HARINGA BARKA",
+      "imageSrc": "/images/barka/haringa.jpg",
+      "description": [
+        {
+          "text": "Izuzetno cenjena riba i najzastupljenija u skandinavskim i baltičkim zemljama-Haringa. Na trpezama njihovih meštana,haringa je nezaobilazni,svakodnevni proizvod,što je jedan od razloga zbog čega su resursi za nabavkom ove plave morske ribe izuzetno limitirani."
+        },
+        {
+          "text": "Međutim,raritet koje kompanija PRINCIPAL DUO poseduje kod svojih dobavljača,omogućava da je imamo u našoj ponudi u formi PREMIUM proizvoda Haringa BARKA."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Irska"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "KOMPLET ZA RIBLJU ČORBU",
+      "imageSrc": "/images/barka/komplet-za-riblju-corbu.jpg",
+      "description": [
+        {
+          "text": "Nezaobilazni proizvod u tradicionalnim Alaskim pričama!MIX ili KOMPLET ZA RIBLJU ČORBU BARKA je procentualno pažljivo odabran odnos krupnijih,najfinijih delova šarana,babuške,soma,deverike,tolstolobika,koji pripremljen sa povrćem,bez dodatka,izaziva rapsodiju ukusa."
+        },
+        {
+          "text": "Kako bi doživljaj bio kompletan,naš proizvod BARKA je bogatiji za 10% gratis proizvoda."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Srbija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 500g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/pot.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "KRABA MESO SA PRAVIM KLEŠTIMA BARKA",
+      "imageSrc": "/images/barka/kraba-sa-pravim-kljestima.jpg",
+      "description": [
+        {
+          "text": " Kraba meso sa pravim kleštima  BARKA, ima u sebi prirodne arome krabe i najprefinjeniji surimi od mesa bele morske ribe koji je formiran u ukusni zalogaj sa originalnim kleštima krabe,a zatim polupripremljen i paniran. Nakon kratke pripreme od svega par minuta,naš BARKA proizvod je spreman za konzumaciju u svom egzotičnom i primaljivo hrskavom i ukusnom ruhu."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Estonija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 250g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "20kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "40#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "LIGNJA ŠTAPIĆI BARKA",
+      "imageSrc": "/images/barka/lignja-stapici.jpg",
+      "description": [
+        {
+          "text": "Lignja štapici BARKA, su rađeni po tradicionalnoj recepturi severno evropskih zemalja."
+        },
+        {
+          "text": "Ukus lignja štapića BARKA je prilagođen prihvatljivim ukusima našeg regiona,začinima i konzistencijom mesa."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Estonija, Nemačka"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 250g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "10kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "140#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "LIGNJE OČIŠĆENE BARKA ",
+      "imageSrc": "/images/barka/lignje-ociscene-1kg.jpg",
+      "description": [
+        {
+          "text": "Lignja očišćena BARKA je finalni proizvod kome je predhodio proces tretiranja po specijalnoj recepturi koja se sprovodi u proizvodnim pogonima kompanije PRINCIPAL DUO,namenski opremljenih po najvišim standardima.Ručno očišćena lignja,ukazuje na nemogućnost greške u obradi koja zajedno sa kvalitetnim i upakovanim proizvodom na najsavremeniji način na našim prostorima,rezultira prepoznavanjem jedinstvenosti na tržištu."
+        },
+        {
+          "text": "Naša očišćena lignja je,upravo zbog kvaliteta,posvećenosti i posebnom tretmanu do krajnjeg proizvoda BARKA,nosilac ŠAMPIONSKE TITULE u grupi proizvoda od mesa na Međunarodnom poljoprivrednom sajmu u Novom Sadu."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Španija, Estonija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "LIGNJE OČIŠĆENE BARKA ",
+      "imageSrc": "/images/barka/lignje-ociscene-400g.jpg",
+      "description": [
+        {
+          "text": "Lignja očišćena BARKA je finalni proizvod kome je predhodio proces tretiranja po specijalnoj recepturi koja se sprovodi u proizvodnim pogonima kompanije PRINCIPAL DUO,namenski opremljenih po najvišim standardima.Ručno očišćena lignja,ukazuje na nemogućnost greške u obradi koja zajedno sa kvalitetnim i upakovanim proizvodom na najsavremeniji način na našim prostorima,rezultira prepoznavanjem jedinstvenosti na tržištu."
+        },
+        {
+          "text": "Naša očišćena lignja je,upravo zbog kvaliteta,posvećenosti i posebnom tretmanu do krajnjeg proizvoda BARKA,nosilac ŠAMPIONSKE TITULE u grupi proizvoda od mesa na Međunarodnom poljoprivrednom sajmu u Novom Sadu."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Španija, Estonija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 400g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "18kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "LOSOS KOTLET BARKA",
+      "imageSrc": "/images/barka/losos-kotleti.jpg",
+      "description": [
+        {
+          "text": "Losos u kompaniju PRINCIPAL DUO stiže u komadu,gramaže od 1-3kg/kom.U našoj proizvodnji ,posebno formiran i obučen kadar za rad na specijalizovanoj mašini za sečenje,proizvodi losos kotlete BARKA,internom inspekcijom svakog komada,u strogo kontrolisanim uslovima,pridržavajući se svih zahteva HACCP sistema."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "SAD, Kanada"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000 g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "OSLIĆ FILETI ALJAŠKA KOLJA BARKA",
+      "imageSrc": "/images/barka/oslic-fileti-aljaska-kolja.jpg",
+      "description": [
+        {
+          "text": "Fileti Aljaška Kolja BARKA,prepoznatljivi i pod nekadašnjim nazivom APO fileti,potiču iz potpuno divljeg ulova,koji nakon mašinske obrade,uglavnom u Kini u smislu filetiranja i procesa pakovanja strogo poštujući zdravstveno-higijenske standarde u proizvodnji kompanije PRINCIPAL DUO,postaje finalni proizvod OSLIĆ FILETI ALJAŠKA KOLJA BARKA."
+        },
+        {
+          "text": "Jedna od zanimljivosti je da ova riba živi u jatu,hrani se planktonima,a obzirom da nije riba iz uzgoja,ne nalazi se na spisku deficitarnih,što će reći da je zastupljena u morskim dubinama u dovoljnim količinama za ulov. "
+        },
+        {
+          "text": "Odlikuje ga izuzetno belo meso koje se lako kombinuje sa ostalim ukusima.Zbog svog,ne baš izraženog ribljeg ukusa,Oslić Fileti Aljaška Kolja BARKAsu dobri za pripremu hrane u fast food-ovima,vrtićima gde riba usled brzog načina pripreme u fritezama,bude pametniji izbor.Resursi su dobri,a kao cenovno,godinama unazad,vrlo isplativ i konkurentan proizvod, Oslić Fileti Aljaška Kolja BARKA našao je svoje mesto čak i u nagetsima i li burgerima."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Kina, Vijetnam"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 500g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "12kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "100#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "OSLIĆ HEK BARKA",
+      "imageSrc": "/images/barka/oslic-hek.jpg",
+      "description": [
+        {
+          "text": "Pod brendom BARKA se nalazi riba bez glave, repa i utrobe, latinskog naziva MERLUCIUS SPP., najkvalitetnija na srpskom tržištu sa uopštenim nazivom OSLIĆ. Odlično izbalansiran ukus potpuno organic, divlje, bele morske ribe sa stabilnom konzistencijom mesa i nežnim uticajem minerala i masti."
+        },
+
+        {
+          "text": "Edukovani kuvari i poštovaoci ove vrste hedonističkog doživljaja, spremaju je kratkim blanširanjem, čime je sačuvana sva raskošnost proteina i primesa koji daju najznačajniji doprinos ukusa ove ribe. Obzirom da oslić HEK BARKA ne sadrži suvišne masnoće, idealna je komponenta u sklopu mix-a za pripremu dobre riblje čorbe."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Španija, Argentina"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000 g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "OSLIĆ HOKI BARKA",
+      "imageSrc": "/images/barka/oslic-hoki.jpg",
+      "description": [
+        {
+          "text": "Za razliku od Heka, oslić HOKI brenda BARKA je plava riba iz istoimene grupe.Visok sadržaj belančevina podstiče razmenu materija u organizmu,a samim tim i sagorevanje masti. Pored bakalara,raže,ribe list,HOKI pripada grupi nemasnih riba, sa najmanje 2% lipida. Najveća koncentracija omega 3 masnih kiselina se nalazi u osliću, pored preostle dve vrste riba."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Španija, Argentina"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000 g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "PALMINO ULJE BARKA",
+      "imageSrc": "/images/barka/palmino-ulje.jpg",
+      "description": [
+        {
+          "text": "Palmino ulje dolazi nam iz Indonezije . Rađeno je specijalno prema specifikacijama za tradicionalni način spremanja srpskih specijalieta. Palmina mast visokog viskoziteta čiji kvalitetni sastojci pod brendom Barka, daju spremljenim proizvodima poseban ukus."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Indonezija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "20kg"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "20kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "60#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": []
+      }
+    },
+    {
+      "title": "PANGAZIUS FILETI BARKA",
+      "imageSrc": "/images/barka/pangazius-fileti.jpg",
+      "description": [
+        {
+          "text": "Pangazius se uzgaja planinski,u strogo kontrolisanim,tipskim bazenima napravljenim pored reke Mekong.Voda u kojoj se pangazius gaji je bezbedna,zdravstveno ispravna,zahvaljujući odličnom funkcionisanju sistema za filtriranje,a pod nazorom evropskih i američkih stručnjaka."
+        },
+        {
+          "text": "Na kvalitet proizvoda utiču želje uvoznika,što ukazuje na činjenicu da je ponuda ovog proizvoda,u smislu kvaliteta,raznolika."
+        },
+        {
+          "text": "Pangazius filet BARKA podrazumeva proizvod koji uvozimo i pakujemo po strogo ispunjenim uslovima Evropske Unije,po čemu se naša ponuda izdvaja u svakom smislu u odnosu na konkurenciju,a pre svega u smislu boljeg kvaliteta samog proizvoda."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Vijetnam"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 500g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "20 x 500g"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "42#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "PAPALINA BARKA",
+      "imageSrc": "/images/barka/papalina.jpg",
+      "description": [
+        {
+          "text": "Kompanija PRINCIPAL DUO kao zasluženo privilegovana u poslu sa ribom,poseduje Ugovor o nabavci sa kompanijom koja jedina vrši proces proizvodnje na samoj obali Baltičkog mora.Ova saradnja i činjenica pozicioniranja proizvodnog pogona pored mora je od izuzetnog značaja,jer papalina iz mora,ulovom direktno dolazi u proizvodni pogon što bitno utiče na njenu nepromenjenu svežinu,oblik,kvalitet."
+        },
+        {
+          "text": "Nepromenjenog nutritivnog sastava,u našem proizvodnom sektoru,nastaje PAPALINA BARKA."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Poljska"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "PLODOVI MORA BARKA ",
+      "imageSrc": "/images/barka/plodovi-mora.jpg",
+      "description": [
+        {
+          "text": "SEA FOOD KOKTEL je svetski naziv za plodove mora,što objašnjava raznovrsnost ukusa i mogućnost raznolikosti u pripremi,u zavisnosti od tržišta tj. njene kuhinje."
+        },
+        {
+          "text": "MIX plodova mora koji je pažljivo odabran i proporcijalno koncipiran i prilagođen mediteranskom ukusu je upravo naš brendirani proizvod PLODOVI MORA BARKA."
+        },
+        {
+          "text": "*U proizvodnji kompanije PRINCIPAL DUO imamo razrađenu uslugu formiranja mix-a plodova mora po želji kupca."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Španija, Litvanija, Čile, Kina"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1kg"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "PLODOVI MORA BARKA ",
+      "imageSrc": "/images/barka/plodovi-mora.jpg",
+      "description": [
+        {
+          "text": "SEA FOOD KOKTEL je svetski naziv za plodove mora,što objašnjava raznovrsnost ukusa i mogućnost raznolikosti u pripremi,u zavisnosti od tržišta tj. njene kuhinje."
+        },
+        {
+          "text": "MIX plodova mora koji je pažljivo odabran i proporcijalno koncipiran i prilagođen mediteranskom ukusu je upravo naš brendirani proizvod PLODOVI MORA BARKA."
+        },
+        {
+          "text": "*U proizvodnji kompanije PRINCIPAL DUO imamo razrađenu uslugu formiranja mix-a plodova mora po želji kupca."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Španija, Litvanija, Čile, Kina"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 400g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "20kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "POMFRIT BARKA",
+      "imageSrc": "/images/barka/pomfrit.jpg",
+      "description": [
+        {
+          "text": "Pomfrit Barka se formira i pakuje u najmodernijim fabrikama u EU od sorti krompira koje daju prefinjen ukus."
+        },
+        {
+          "text": " Svako pakovanje je prekontrolisano poštujući definisane parametre i limite,a po veličini, obliku i kvalitetu. Barka pomfrit je trenutno najprodavaniji pomfrit u pakovanju od 1 kg u regionu zapadnog Balkana, što je definitivno i potvrda razumevanja brenda i kvaliteta kao odgovor  zahtevima tržišta."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "EU"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1kg"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "72#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "RIBLJE PLJESKAVICE BARKA 250g,50%ribe",
+      "imageSrc": "/images/barka/riblje-pljeskavice.jpg",
+      "description": [
+        {
+          "text": "Sam nastanak ribljih pljeskavica,sredinom prošlog veka u Nemačkoj,je bio vid pomoći u pripremi domaćinstvima koji,na žalost,nisu imali dovoljno vremena de se posvete tradicionalnim,porodičnim ručkovima i da provedu neko vreme u pripremi hrane.Namera je bila da na stolu bude riblji obrok,ali da se za to potroši što je moguće manje vremena.Tako su nastali riblje pljeskavice ili popularno nazvani »fiš burgeri«(fish burgers)."
+        },
+        {
+          "text": "Od  izuzetno kvalitetnih,dobijenih iz čistog fileta ribe sa nanetom panir masom do celih zrna žitarica i naravno prirodnim začinima do ribljih burgera koji sadrže vrlo mali procenat ribe,ali cenovno mogu parirati zahtevima za velikim količinama,dostupnim širokim narodnim masama."
+        },
+        {
+          "text": " Naš upakovani i brendirani proizvod RIBLJE PLJESKAVICE  BARKA sadrži veliki procenat ribe i s razlogom nosi titulu PREMIUM proizvoda."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "EU"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 250g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "10kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "140#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "PANIRANI RIBLJI ŠTAPIĆI BARKA 250g,40% ribe",
+      "imageSrc": "/images/barka/riblji-stapici.jpg",
+      "description": [
+        {
+          "text": "Sam nastanak ribljih štapića,sredinom prošlog veka u Nemačkoj,je bio vid pomoći u pripremi domaćinstvima koji,na žalost,nisu imali dovoljno vremena de se posvete tradicionalnim,porodičnim ručkovima i da provedu neko vreme u pripremi hrane.Namera je bila da na stolu bude riblji obrok,ali da se za to potroši što je moguće manje vremena.Tako su nastali riblji štapići ili popularno nazvani »fiš fingeri«(fish fingers)."
+        },
+        {
+          "text": "Od izuzetno kvalitetnih,dobijenih iz čistog fileta ribe sa nanetom panir masom do celih zrna žitarica i naravno prirodnim začinima do ribljih štapića koji sadrže vrlo mali procenat ribe,ali cenovno mogu parirati zahtevima za velikim količinama,dostupnim širokim narodnim masama."
+        },
+        {
+          "text": "Naš upakovani i brendirani proizvod RIBLJI ŠTAPIĆI BARKA sadrži veliki procenat ribe i s razlogom nosi titulu PREMIUM proizvoda."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Estonija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 250g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "10kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "140#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SARDINA U BILJNOM ULJU BARKA ",
+      "imageSrc": "/images/barka/sardina.jpg",
+      "description": [
+        {
+          "text": "Sardina Barka, radi se u mestu ulova, Hrvatska ili Maroko. Prema pravilniku,riba mora ispuniti najzahtevnije standarde koji se traže za extra kvalitet. "
+        },
+        {
+          "text": "Suncokretovo ulje, celi komadi ribe bez glave i utrobe u celini predstavljaju prefinjen, prepoznatljivo dobar koji ne ostavlja ravnodušnim ni najveće ljubitelje morske hrane."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Maroko"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 125g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "50kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "99#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": []
+      }
+    },
+    {
+      "title": "SKUŠA BARKA",
+      "imageSrc": "/images/barka/skusa.jpg",
+      "description": [
+        {
+          "text": "Skuša BARKA je najbolje izbalansiran artikal u smislu odnosa cene i kvaliteta."
+        },
+        {
+          "text": "Najkvalitetniji primerak skuše uvozimo iz veoma razvijenih industrijskih centara koji koriste najmoderniju tehnologiju za očuvanje kvaliteta,oblika,sjaja ovog morskog proizvoda."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Norveška"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SURIMI KRABE „BARKA“",
+      "imageSrc": "/images/barka/surimi.jpg",
+      "description": [
+        {
+          "text": "Kraba meso BARKA je fino izbalansiran surimi proizvod kome je dodata panir masa,a koji je za kompaniju PRINCIPAL DUO upakovan od strane proizvođača."
+        },
+        {
+          "text": "Surimi krabe BARKA je polupripremljen proizvod koji finiširan u pripremi na ponuđen i odabran načun,rezultira savršenim ukusom."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Estonija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 1000g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "CCA 10kg"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SURIMI ŠTAPIĆI SA UKUSOM RAKA BARKA ",
+      "imageSrc": "/images/barka/surimi-stapici-ukus-raka.jpg",
+      "description": [
+        {
+          "text": "Surimi štapići sa ukusom raka BARKA ili Kraba štapići BARKA je čist proteinski proizvod iz koga su fizičkom obradom odstranjene masnoće koje su kompenzovane delimičnim i precizno odabranim premesama arome i veoma skupog mesa krabe,jastoga ili nekog još luksuznijeg ukusa koja ovom proizvodu daje jedinstven ukus."
+        },
+        {
+          "text": "Pod BARKA brendom,a po našoj recepturi,proizvođač pakuje i finišira surimi koji je deo našeg asortimana."
+        },
+        {
+          "text": "Surimi štapići BARKA će svojim nutritivnim vrednostima i ekskluzivnim,blagim ukusom zadovoljiti širok spektar konzumenata,kako dobrih poznavalaca seafood,tako i onih koji su izuzetno probirljivi i cene svoj proteinski zalogaj."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Litvanija"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 250g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "30x250g"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "128#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "TUNA KOMADI U SUNCOKRETOVOM ULJU BARKA ",
+      "imageSrc": "/images/barka/tuna-komadna-160g.jpg",
+      "description": [
+        {
+          "text": "Barka Tunjevina komadna je,na tržištu,jedna u mnoštvu tuna u konzervi."
+        },
+        {
+          "text": "Odabirom kvaliteta smo se potrudili da spakujemo najkvalitetnije delove tune iz renomiranih fabrika koje su prepoznate na veoma zahtevnom tržištu zapadne Evrope,kako po kvalitetu,tako i po visokim ocenama sanitarno veterinarskih inspekcija iz Evrope."
+        },
+        {
+          "text": "Tuna komadi Barka se radi iz najkvalitetnijeg komada filea mesa do kičme tune."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Tajland"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 160g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "48kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "90#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": []
+      }
+    },
+    {
+      "title": "TUNA KOMADI U SUNCOKRETOVOM ULJU BARKA ",
+      "imageSrc": "/images/barka/tuna-komadna-185g.jpg",
+      "description": [
+        {
+          "text": "Barka Tunjevina komadna je,na tržištu,jedna u mnoštvu tuna u konzervi."
+        },
+        {
+          "text": "Odabirom kvaliteta smo se potrudili da spakujemo najkvalitetnije delove tune iz renomiranih fabrika koje su prepoznate na veoma zahtevnom tržištu zapadne Evrope,kako po kvalitetu,tako i po visokim ocenama sanitarno veterinarskih inspekcija iz Evrope."
+        },
+        {
+          "text": "Tuna komadi Barka se radi iz najkvalitetnijeg komada filea mesa do kičme tune."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Tajland"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 185g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "48kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "100#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": []
+      }
+    },
+    {
+      "title": "TUNA MRVLJENA U SUNCOKRETOVOM ULJU BARKA",
+      "imageSrc": "/images/barka/tuna-mrvljena-160g.jpg",
+      "description": [
+        {
+          "text": "Barka Tunjevina mrvljena je,na tržištu,jedna u mnoštvu tuna u konzervi."
+        },
+        {
+          "text": "Odabirom kvaliteta smo se potrudili da spakujemo najkvalitetnije delove tune iz renomiranih fabrika koje su prepoznate na veoma zahtevnom tržištu zapadne Evrope,kako po kvalitetu,tako i po visokim ocenama sanitarno veterinarskih inspekcija iz Evrope."
+        },
+        {
+          "text": "Tuna mrvljena Barka je nastala iz filea kičmenog mišića kao i trbušnog mišića onih delova koji nisu mogli ući u konzervu tunjevine u komadu Barka."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Tajland"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 160g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "48kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "100#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": []
+      }
+    },
+    {
+      "title": "TUNA MRVLJENA U SUNCOKRETOVOM ULJU BARKA",
+      "imageSrc": "/images/barka/tuna-mrvljena-185g.jpg",
+      "description": [
+        {
+          "text": "Barka Tunjevina mrvljena je,na tržištu,jedna u mnoštvu tuna u konzervi."
+        },
+        {
+          "text": "Odabirom kvaliteta smo se potrudili da spakujemo najkvalitetnije delove tune iz renomiranih fabrika koje su prepoznate na veoma zahtevnom tržištu zapadne Evrope,kako po kvalitetu,tako i po visokim ocenama sanitarno veterinarskih inspekcija iz Evrope."
+        },
+        {
+          "text": "Tuna mrvljena Barka je nastala iz filea kičmenog mišića kao i trbušnog mišića onih delova koji nisu mogli ući u konzervu tunjevine u komadu Barka."
+        }
+      ],
+      "country": {
+        "label": "Zemlja porekla:",
+        "text": "Tajland"
+      },
+      "comercialPack": {
+        "label": "Komercijalno pakovanje:",
+        "text": "CCA 185g"
+      },
+      "transportPack": {
+        "label": "Transportno pakovanje:",
+        "text": "48kom"
+      },
+      "packNumber": {
+        "label": "Broj transportnih pakovanja na paleti:",
+        "text": "90#"
+      },
+      "storageMethod": {
+        "label": "Način čuvanja:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Način pripreme:",
+        "images": []
+      }
+    }
+  ]
+}

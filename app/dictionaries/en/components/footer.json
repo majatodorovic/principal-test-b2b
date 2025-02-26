@@ -1,0 +1,80 @@
+{
+  "social": [
+    {
+      "imageSrc": "/images/footer/facebook.png",
+      "link": "https://www.facebook.com/p/Principal-duo-100076362528904/?locale=sr_RS"
+    },
+    {
+      "imageSrc": "/images/footer/instagram.png",
+      "link": "https://www.instagram.com/principal.duo/?hl=en"
+    }
+  ],
+  "locations": [
+    {
+      "title": "Wholesale Čačak",
+      "address": "Đakona Avakuma 134, </br> 32000 Čačak, Serbia",
+      "phone": "Tel/Fax: +381 32 370 790",
+      "email": "firma@principalduo.com"
+    },
+    {
+      "title": "Wholesale Sopot",
+      "address": "Karađorđeva 7, </br> 21000 Đurinci, Serbia",
+      "phone": "Tel/Fax: +381 11 283 4 631",
+      "email": "sopot@principalduo.com"
+    },
+    {
+      "title": "Wholesale Novi Sad",
+      "address": "Temerinski put 46, </br> 11450 Novi Sad, Serbia",
+      "phone": "Tel/Fax: +381 21 673 6 936",
+      "email": "officenovisad@principalduo.com"
+    }
+  ],
+  "links": {
+    "title": "Information",
+    "items": [
+      {
+        "text": "Home",
+        "href": ""
+      },
+      {
+        "text": "Import",
+        "href": "/import"
+      },
+      {
+        "text": "Offer",
+        "href": "/offer"
+      },
+      {
+        "text": "Production",
+        "href": "/production"
+      },
+      {
+        "text": "Fish Markets",
+        "href": "/fishmarkets"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Contact",
+        "href": "/contact"
+      },
+      {
+        "text": "Barka",
+        "href": "/barka"
+      },
+      {
+        "text": "About us",
+        "href": "/about-us"
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "description": "Sign up for our newsletter and be the first to know about the latest products.",
+    "placeholder": "Enter your email address",
+    "button": "Submit"
+  },
+  "copyright": "© 2024 Principal Duo DOO | All rights reserved. Powered by &nbsp;<a href='https://www.croonus.com/' target='_blank'>Croonus Technologies</a>"
+}

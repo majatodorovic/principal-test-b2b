@@ -1,0 +1,115 @@
+{
+  "title": "Uvoz",
+  "breadcrumbs": [
+    {
+      "name": "Početna",
+      "link": ""
+    },
+    {
+      "name": "Uvoz",
+      "link": "import"
+    }
+  ],
+  "results": {
+    "description": [
+      {
+        "text": "Kao i u svakom drugom ozbiljnom poslu, svet pravih, svetski značajnih igrača, bitnih za posao sa ribom, nije veliki. Naš zadatak je bio da prevaziđemo trgovce i da se pojavimo kod proizvođača. U našoj delatnosti, proizvođači su vlasnici brodova koji su ujedno i fabrike za lov, proizvodnju, smrzavanje ribe i proizvoda od ribe. Obzirom da Srbija, u poređenju sa svetskim gigantima, nije strateška zemlja u poslu sa ribom, ime Principal Duo je veoma prepoznatljivo. Imidž koji je stvoren u prethodnim godinama čini da informacije o dodeli kvota za izlov, ulovu ribe kao i svetskim trendovima u prodaji, dolaze kod nas iz prve ruke, direktno sa izvora bez posrednika."
+      },
+      {
+        "text": "Samim tim, naš zadatak nakon prikupljanja svih informacija od proizvođača i prevashodno naših potreba u određenom mesecu ili više meseci, mi formiramo porudžbine ribe. Riba se lovi skoro u svakom moru, s toga mi moramo raspolagati svim tim informacijama, jer se poručivanje robe nekada vrši i više meseci unapred, tj.pre nego što će ta roba doći u naš magacin."
+      },
+      {
+        "text": "Izveštaji o našoj prodaji u prethodnim godinama, trenutnim zahtevima kupaca, trendovima u ishrani, ali i trenutnim izlovima riba koje su ranije bile u našoj prodaji, kao i mogućim substitutima, su presudni u donošenju odluke u nabavci uvoznog tipa. Nakon dogovora i ispunjenja uslova poslovanja dobavljača sa naše strane, ugovara se prekookeanski transport i usaglašavaju se dozvole, prolazi i svi parametri sigurnog dolaska robe do našeg magacina."
+      }
+    ],
+    "cards": [
+      {
+        "icon": "/images/import/results/agreement.png",
+        "number": 100,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Dobavljači iz celog sveta"
+      },
+      {
+        "icon": "/images/import/results/service.png",
+        "number": 2007,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "HACCP"
+      },
+      {
+        "icon": "/images/import/results/regulatory.png",
+        "number": 2010,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "IFS"
+      },
+      {
+        "icon": "/images/import/results/results.png",
+        "number": 98,
+        "numberPreffix": "",
+        "numberSuffix": "%",
+        "text": "Rezultat sertifikacije"
+      },
+      {
+        "icon": "/images/import/results/save-the-world.png",
+        "number": 100,
+        "numberPreffix": "",
+        "numberSuffix": "%",
+        "text": "Poštovanje održivosti"
+      }
+    ]
+  },
+  "world": {
+    "products": [
+      {
+        "text": "Belgija, Nemačka, </br> Holandija",
+        "imageSrc": "/images/import/world/fries.png"
+      },
+      {
+        "text": "Estonija, Španija,</br> Litvanija",
+        "imageSrc": "/images/import/world/filets.png"
+      },
+      {
+        "text": "Španija, Argentina, Vijetnam, </br> Kina, Nemačka, Kanada, </br> SAD, Urugvaj",
+        "imageSrc": "/images/import/world/fish.png"
+      }
+    ]
+  },
+  "quality": {
+    "titleOne": "Kvalitet (sertifikati).",
+    "description": [
+      {
+        "text": "Kompanija Principal Duo usaglasila je svoje poslovanje sa zahtevima Codex Alimenarius Commision/Recommended international code of Practice General Principles of Food Hygiene – HACCP-om daleke 2007.godine,kao i sa zahtevima standarda IFS (International Food Standard) 2010.godine."
+      },
+      {
+        "text": "Na godišnjem nivou,sprovode se resertifikacije od strane renomiranih sertifikacionih kuća,te se možemo pohvaliti zavidnom ocenom poslovanja i napretka u oblasti kvaliteta. Takvim rezultatima doprinela je odgovornost svih zaposlenih koji timskim radom utiču na stalnom poboljšanju efektivnosti sistema menadžmenta kvalitetom i HACCP sistema."
+      },
+      {
+        "text": "Celokupan lanac,od prijema sirovina do isporuke proizvoda kupcu,regulisan je procesima obuhvaćenim HACCP standardom,dobrom proizvođačkom i dobrom higijenskom praksom (GMP i GHP)."
+      }
+    ],
+    "titleTwo": "Uspešnost sertifikacije konstantno </br> na visokom nivou."
+  },
+  "sustainability": {
+    "title": "Održivost i briga o zaštiti </br> životne sredine.",
+    "text1": "Zadatak <strong>Principal Duo</strong> kao lidera na tržištu u sektoru zamrznute hrane jeste da obebeđuje sirovine iz održivih resursa i sarađuje sa proizvođačima koje su članice globalnih incijativa za održivi razvoj.",
+    "text2": "Cilj menadžmenta <strong>Principal Duo</strong> je da edukuje zaposlene , kupce i krajnje potrošače o ciljevima kompanije vezanim za aktivnosti koje se odnose na brigu o zaštiti životne sredine.",
+    "text3": "Aktivnosti koje sprovodimo svakodnevno zasnivaju se na sledećim principima:",
+    "activities": [
+      {
+        "text": "Nabavka ribe iz održivih ribljih fondova"
+      },
+      {
+        "text": "Optimizacija potrošnje vode i električne energije"
+      },
+      {
+        "text": "Smanjenje emisije buke u radnom prostoru i na okolinu"
+      },
+      {
+        "text": "Reciklaža otpada"
+      }
+    ],
+    "text4": "Kontinuirano radimo na poboljšanju poslovnih performansi u cilju unapređenja i primene novih tehnologija koje bi poboljšale efikasnost kompanije u cilju zaštite životne sredine."
+  }
+}

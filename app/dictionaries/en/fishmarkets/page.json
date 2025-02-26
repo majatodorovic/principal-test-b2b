@@ -1,0 +1,78 @@
+{
+  "title": "Fish Markets",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "link": ""
+    },
+    {
+      "name": "Fish Markets",
+      "link": "fishmarkets"
+    }
+  ],
+  "newspaper": {
+    "title": "Welcome to the best </br> fish market in town.",
+    "description": [
+      {
+        "text": "Retail outlets recognizable by the name of our brand <strong>„BARKA“</strong>, owned by the company, are known to customers for offering a wide range of frozen, fresh, and live fish, breaded products, frozen vegetables, as well as rich catering services. We guarantee top-quality products and preparation, original presentation, and impeccable service."
+      },
+      {
+        "text": "Our menu includes freshly prepared snacks from our fasting, salty, and sweet range: all kinds of fish specialties, cooked dishes, fasting appetizers, salads, rolls, salty and sweet pies, small cakes... We meet all the wishes and demands of our customers!"
+      },
+      {
+        "text": "We will turn any of your ideas into reality, and with the advice of qualified staff with years of experience in this business, we can help you find the most optimal solution for you. Everything freshly prepared, we will gladly deliver to your doorstep at your desired time."
+      }
+    ],
+    "woltText": "Order online",
+    "restoraunts": [
+      {
+        "imageSrc": "/images/fishmarkets/barka-1.jpg",
+        "name": "Retail and Food Preparation - <strong>Fish Market Barka 1</strong>",
+        "address": "Obilićeva 5, </br> 32000 Čačak, Serbia",
+        "phone": "+381 32 325 242"
+      },
+      {
+        "imageSrc": "/images/fishmarkets/barka-2.jpg",
+        "name": "Retail </br> <strong>Fish Market Barka 2</strong>",
+        "address": "Vladike Nikolaja Velimirovića </br> 32, 32000 Čačak, Serbia",
+        "phone": "+381 32 531 1000"
+      }
+    ]
+  },
+  "food": {
+    "title": "Wide selection of dishes.",
+    "description": [
+      {
+        "text": "In addition to traditional Mediterranean flavors, we offer a large selection of fasting dishes and salads combined with handmade pies and cakes."
+      },
+      {
+        "text": "Fasting sarma, catfish paprikaš, sauerkraut with smoked carp, fish soup, boiled beans and peas, mackerel in oil, seafood risotto, fasting jellies, chrono bread, fasting salty pies with mushrooms and potatoes, a wide range of salads, homemade baklava, pie with dried plums, apples, cherries, vanilla cookies."
+      },
+      {
+        "text": "...and much more."
+      },
+      {
+        "text": "Allow us to be your host at your celebration!"
+      }
+    ],
+    "imageSrc": "/images/fishmarkets/food.jpg"
+  },
+  "specialties": {
+    "title": "Fresh and frozen fish and fish specialties.",
+    "description": [
+      {
+        "text": "The highest quality sea fish caught in the sea and frozen on board, seafood, and all types of squid, fresh and frozen river fish, breaded fish products, fish fillets, smoked fish."
+      }
+    ],
+    "imageSrc": "/images/fishmarkets/specialties.jpg"
+  },
+  "potato": {
+    "title": "French fries and potato products.",
+    "description": [
+      {
+        "text": "Potato rosti balls, super crispy French fries, potato patties, potatoes with skin, Barka French fries."
+      }
+    ],
+    "imageSrc": "/images/fishmarkets/potato.jpg"
+  }
+}

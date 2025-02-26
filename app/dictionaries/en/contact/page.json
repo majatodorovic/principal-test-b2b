@@ -1,0 +1,95 @@
+{
+  "title": "Contact",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "link": ""
+    },
+    {
+      "name": "Contact",
+      "link": "contact"
+    }
+  ],
+  "wholesale": {
+    "title": "Wholesale",
+    "description": [
+      {
+        "name": "Wholesale Čačak",
+        "address": "Đakona Avakuma 134, </br> 32000 Čačak, Serbia",
+        "phone": [{ "number": "Tel/Fax: +381 32 370 790" }],
+        "email": "firma@principalduo.com"
+      },
+      {
+        "name": "Wholesale Sopot",
+        "address": "Karađorđeva 7, </br> 21000 Đurinci, Serbia",
+        "phone": [{ "number": "Tel/Fax: +381 11 283 4 631" }],
+        "email": "sopot@principalduo.com"
+      },
+      {
+        "name": "Wholesale Novi Sad",
+        "address": "Temerinski put 46, </br> 11450 Novi Sad, Serbia",
+        "phone": [
+          {
+            "number": "Tel: +381 63 667358"
+          }
+        ],
+        "email": ""
+      }
+    ]
+  },
+  "retail": {
+    "title": "Retail",
+    "description": [
+      {
+        "name": "Retail Čačak 1",
+        "address": "Obilićeva 5, </br> 32000 Čačak, Serbia",
+        "phone": [
+          {
+            "number": "Tel: + 381 32 325 242"
+          },
+          { "number": "Mob: + 381 63 668 461" }
+        ],
+        "email": ""
+      },
+      {
+        "name": "Retail Čačak 2",
+        "address": "Vladike Nikolaja Velimirovića 32, </br> 32000 Čačak, Serbia",
+        "phone": [{ "number": "Tel: + 381 32 531 1000" }],
+        "email": ""
+      }
+    ],
+    "pdfText": "Identification data </br> Principal DOO",
+    "pdfButton": "Download here"
+  },
+  "form": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Contact Phone",
+    "email": "Email",
+    "message": "Inquiry/Your Message",
+    "sendButton": "Send",
+    "footnote": "<strong>Note:</strong> Your contact details will not be published or used, in accordance with the provisions of the Personal Data Protection Regulation (Official Gazette of RS, No. 87/2018.)"
+  },
+  "locations": [
+    {
+      "position": [43.88903592859367, 20.3508146379093],
+      "text": "Retail Čačak 1"
+    },
+    {
+      "position": [43.86091151936673, 20.390989628392298],
+      "text": "Wholesale Čačak"
+    },
+    {
+      "position": [44.52727658035047, 20.57307492964115],
+      "text": "Wholesale Sopot"
+    },
+    {
+      "position": [43.888077607167936, 20.32624021917981],
+      "text": "Retail Čačak 2"
+    },
+    {
+      "position": [45.30242643178282, 19.830643948309735],
+      "text": "Wholesale Novi Sad"
+    }
+  ]
+}

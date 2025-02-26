@@ -1,0 +1,40 @@
+{
+  "languages": {
+    "button": "Jezik",
+    "list": [{ "name": "en" }, { "name": "sr" }]
+  },
+  "links": [
+    {
+      "text": "Početna",
+      "href": ""
+    },
+    {
+      "text": "Uvoz",
+      "href": "/import"
+    },
+    {
+      "text": "Ponuda",
+      "href": "/offer"
+    },
+    {
+      "text": "Proizvodnja",
+      "href": "/production"
+    },
+    {
+      "text": "Ribarnice",
+      "href": "/fishmarkets"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Kontakt",
+      "href": "/contact"
+    },
+    {
+      "text": "Barka",
+      "href": "/barka"
+    }
+  ]
+}

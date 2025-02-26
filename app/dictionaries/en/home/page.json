@@ -1,0 +1,234 @@
+{
+  "hero": {
+    "title": "<span>Quality</span> from the depths, <br />straight to your table.",
+    "subTitle": "24 years of tradition and existence speak of<br />great qualities and strong potentials<br />that this company possesses.",
+    "exploreProductsButton": "Explore Products"
+  },
+  "leader": {
+    "title": "Why we are market </br> leaders.",
+    "description": "Import, processing, production, re-export, and distribution in Serbia and surrounding countries are the main activities of <strong>Principal Duo</strong>, successfully operating since 2001. The company is jointly owned by the Stojimirović family from Serbia and the Duering family from Germany.",
+    "aboutUsButton": "Learn More About Us",
+    "loyaltyCards": [
+      {
+        "title": "Reliability",
+        "description": "Our company employs over 100 workers, with a daily production capacity of 5000 tons and a storage capacity of 3000 tons. With more than 50 specialized delivery vehicles, we ensure fast and secure delivery across the country."
+      },
+      {
+        "title": "Quality",
+        "description": "Our business is based on adhering to internationally recognized quality standards, guaranteeing top reliability and professionalism. We pay special attention to aligning agreed and delivered product quality to meet and exceed our clients' expectations."
+      },
+      {
+        "title": "Professionalism",
+        "description": "Our team consists of highly educated professionals in all business sectors, ensuring a high level of professionalism and efficiency. Additionally, we provide a constant supply of goods throughout the year, meeting our clients' needs at all times."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Our main goal and motto is customer satisfaction! We strive daily to meet their needs and expectations, building long-term relationships based on trust and quality."
+      }
+    ],
+    "numberCards": [
+      {
+        "icon": "/images/home/leader/cold-storage.png",
+        "number": 2500,
+        "numberPreffix": "+",
+        "numberSuffix": "t",
+        "text": "Cold storage capacity"
+      },
+      {
+        "icon": "/images/home/leader/fish.png",
+        "number": 10,
+        "numberPreffix": "+",
+        "numberSuffix": "Mt",
+        "text": "Daily fish processing"
+      },
+      {
+        "icon": "/images/home/leader/forklift.png",
+        "number": 2500,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Unloading points"
+      },
+      {
+        "icon": "/images/home/leader/delivery.png",
+        "number": 50,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Delivery fleet"
+      },
+      {
+        "icon": "/images/home/leader/group.png",
+        "number": 115,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Employees"
+      },
+      {
+        "icon": "/images/home/leader/experience.png",
+        "number": 24,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Years of experience"
+      },
+      {
+        "icon": "/images/home/leader/wholesale.png",
+        "number": 3,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Wholesale centers"
+      },
+      {
+        "icon": "/images/home/leader/retail.png",
+        "number": 2,
+        "numberPreffix": "+",
+        "numberSuffix": "",
+        "text": "Retail centers"
+      }
+    ]
+  },
+  "brand": {
+    "title": "Barka, a brand of </br> premium products.",
+    "description": "Regionally recognizable and present in major retail corporations, HoReCa sector, supermarkets in Serbia, and better markets in neighboring countries, the brand <strong>\"BARKA\"</strong> uncompromisingly avoids competing with private-label brands where price solely determines which product will be packed. It firmly adheres to the belief of packaging only the highest quality fish and seafood available on the Serbian market.",
+    "exploreMoreButton": "Explore More"
+  },
+  "sales": {
+    "title": "Our sales </br> capacities.",
+    "seeOfferButton": "View Offer",
+    "groupButton": [
+      {
+        "title": "Product Spread",
+        "cards": [
+          {
+            "icon": "/images/home/sales/market.png",
+            "number": 62,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Markets, KA, LKA"
+          },
+          {
+            "icon": "/images/home/sales/resort.png",
+            "number": 12,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Restaurants, hotels, catering"
+          },
+          {
+            "icon": "/images/home/sales/fish-market.png",
+            "number": 17,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Fish markets"
+          },
+          {
+            "icon": "/images/home/sales/government.png",
+            "number": 9,
+            "numberPreffix": "",
+            "numberSuffix": "%",
+            "text": "Government tenders"
+          }
+        ]
+      },
+      {
+        "title": "Sales Sector Availability",
+        "cards": [
+          {
+            "icon": "/images/home/leader/articles.png",
+            "number": 240,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Total number of items"
+          },
+          {
+            "icon": "/images/home/leader/horeca.png",
+            "number": 90,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Total items for HoReCa customers"
+          },
+          {
+            "icon": "/images/home/leader/users.png",
+            "number": 1125,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Active customers"
+          },
+          {
+            "icon": "/images/home/leader/magazine.png",
+            "number": 2000,
+            "numberPreffix": "+",
+            "numberSuffix": "",
+            "text": "Unloading points"
+          }
+        ]
+      }
+    ]
+  },
+  "processing": {
+    "title": "Fish production and </br> processing.",
+    "description": [
+      {
+        "text": "Our production holds top ratings in hygienic and sanitary applied measures."
+      },
+      {
+        "text": "Experienced employees, with mastered techniques, handle the most demanding processes of filleting and preparing fish for consumption."
+      },
+      {
+        "text": "We clean, fillet, and process fish and seafood to bring them closer to consumers."
+      },
+      {
+        "text": "Our processes and packaging are fully compliant with current market demands."
+      }
+    ],
+    "exploreMoreButton": "Explore More"
+  },
+  "distribution": {
+    "title1": "Preparation for </br> further sales.",
+    "preparation": [
+      {
+        "title": "Private Labels",
+        "imageSrc": "/images/home/distribution/private-brand.jpg"
+      },
+      {
+        "title": "Cleaning",
+        "imageSrc": "/images/home/distribution/cleaning.jpg"
+      },
+      {
+        "title": "Filleting",
+        "imageSrc": "/images/home/distribution/filtering.jpg"
+      },
+      {
+        "title": "Smoking",
+        "imageSrc": "/images/home/distribution/smoking.jpg"
+      }
+    ],
+    "title2": "Your partner for efficient </br> distribution.",
+    "description": [
+      {
+        "text": "The fleet of DOO PRINCIPAL DUO consists of 50 specialized vehicles designed for our operations, used for distribution, procurement, and commercial purposes."
+      },
+      {
+        "text": "Current daily sales turnover is up to 12t, fully supported by our fleet and qualified logistics team."
+      },
+      {
+        "text": "Recent investments were entirely directed towards enhancing mobility and speeding up delivery times, ensuring our customers can rely on delivery deadlines and reliability as one of the key factors, from ordering goods over the phone to delivery at the sales location."
+      }
+    ],
+    "exploreMoreButton": "Explore More",
+    "video": [
+      "/videos/home/distribucija.mp4"
+    ],
+    "images": [
+      "/images/home/distribution/distribution-1.jpg",
+      "/images/home/distribution/distribution-2.jpg",
+      "/images/home/distribution/distibucija-3.jpg",
+      "/images/home/distribution/distibucija-4.jpg",
+      "/images/home/distribution/distibucija-5.jpg",
+      "/images/home/distribution/distibucija-6.jpg",
+      "/images/home/distribution/distibucija-7.jpg",
+      "/images/home/distribution/distibucija-8.jpg",
+      "/images/home/distribution/distibucija-9.jpg",
+      "/images/home/distribution/distibucija-10.jpg",
+      "/images/home/distribution/distibucija-11.jpg",
+      "/images/home/distribution/distibucija-12.jpg"
+    ]
+  }
+}

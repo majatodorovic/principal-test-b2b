@@ -1,0 +1,1786 @@
+{
+  "title": "Ponuda",
+  "breadcrumbs": [
+    {
+      "name": "Početna",
+      "link": ""
+    },
+    {
+      "name": "Ponuda",
+      "link": "offer"
+    }
+  ],
+  "cards": [
+    {
+      "icon": "/images/offer/swiper/fish.png",
+      "text": "Rinfuzni </br> program",
+      "items": [
+        {
+          "title": "OSLIĆ HEK HUBSI - HAKE - MARLUCCIUS HUBBSI",
+          "imageSrc": "/images/offer/categories/oslic-hek.jpg",
+          "about": "Riba iz divljeg ulova, porodice Merluccius. Lovi se u Atlantskom okeanu,uz obale Urugvaja, Argentine i Antarktika.",
+          "table": [
+            {
+              "column1": "Bez glave, repa, utrobe - Interfolirani",
+              "column2": "HGT-ITLV",
+              "column3": "100-200g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Interfolirani",
+              "column2": "HGT-ITLV",
+              "column3": "200-300g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Pojedinačno pakovan/uvijen",
+              "column2": "HGT-IVP",
+              "column3": "300-450g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Pojedinačno pakovan/uvijen",
+              "column2": "HGT-IVP",
+              "column3": "450-650g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Pojedinačno pakovan/uvijen",
+              "column2": "HGT-IVP",
+              "column3": "650-850g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Pojedinačno pakovan/uvijen",
+              "column2": "HGT-IVP",
+              "column3": "500-800g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Pojedinačno pakovan/uvijen",
+              "column2": "HGT-IVP",
+              "column3": "600-900g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Pojedinačno pakovan/uvijen",
+              "column2": "HGT-IVP",
+              "column3": "800-1200g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Pojedinačno pakovan/uvijen",
+              "column2": "HGT-IVP",
+              "column3": "1200-1500g"
+            },
+            {
+              "column1": "Fileti, bez kože",
+              "column2": "Fillets, Skinless - ITLV",
+              "column3": "450-650g"
+            }
+          ]
+        },
+        {
+          "title": "OSLIĆ HEK - HAKE WHITING - Merluccius productus",
+          "imageSrc": "/images/offer/categories/oslic-hek.jpg",
+          "about": "Riba iz divljeg ulova, porodice Merluccius. Lovi se u Atlantskom okeanu,uz obale Urugvaja, Argentine i Antarktika.",
+          "table": [
+            {
+              "column1": "Bez glave, repa, utrobe - Svaki posebno zamrznut",
+              "column2": "HGT-IQF",
+              "column3": "225-500g"
+            }
+          ]
+        },
+        {
+          "title": "OSLIĆ HOKI - HOKI - Macruronus magellanicus",
+          "imageSrc": "/images/offer/categories/oslic-hoki.jpg",
+          "about": "Riba iz divljeg ulova, porodice Merluccius. Lovi se u Atlantskom okeanu,uz obale Urugvaja, Argentine i Antarktika.",
+          "table": [
+            {
+              "column1": "Bez glave, repa, utrobe - Interfolirani",
+              "column2": "HGT-ITLV",
+              "column3": "200-400g"
+            },
+            {
+              "column1": "Bez glave, repa, utrobe - Interfolirani",
+              "column2": "HGT-ITLV",
+              "column3": "300-500g"
+            }
+          ]
+        },
+        {
+          "title": "LOSOS - SALMON ATLANTIC - SalmoSalar",
+          "imageSrc": "/images/offer/categories/losos.jpg",
+          "about": "Riba iz divljeg ulova,porodice Salmonida. Lovi se u severno istočnom Pacifiku, uz obale Kanade i SAD-a.",
+          "table": [
+            {
+              "column1": "Ceo - svaki posebno zamrznut",
+              "column2": "HG-IQF",
+              "column3": "2000-3000g"
+            },
+            {
+              "column1": "Kotlet, A klasa",
+              "column2": "Steak / Cutlet",
+              "column3": " "
+            },
+            {
+              "column1": "Kotlet, B klasa",
+              "column2": "Steak / Cutlet",
+              "column3": " "
+            },
+            {
+              "column1": "Komadi, repovi",
+              "column2": "Tails",
+              "column3": " "
+            },
+            {
+              "column1": "Fileti, pastrmka losos - 10% glazure, sa kostima",
+              "column2": "Fillets, 10%g laze - with bones - IQF",
+              "column3": " "
+            },
+            {
+              "column1": "Fileti, pastrmka losos - 10% glazure, bez kostiju",
+              "column2": "Fillets, 10% glaze - boneless - IQF",
+              "column3": " "
+            }
+          ]
+        },
+        {
+          "title": "PAPALINA - SPRAT - Sprattus sprattus",
+          "imageSrc": "/images/offer/categories/papalina.jpg",
+          "about": "Lovi se na Baltičkom moru uz specijalnu pripremu za ljudsku upotrebu.",
+          "table": [
+            {
+              "column1": "Svaka posebno zamrznuta",
+              "column2": "WR-IQF",
+              "column3": "90-110kom"
+            }
+          ]
+        },
+        {
+          "title": "SKUŠA - ATLANTIC MACKERE - Scomber scombrus",
+          "imageSrc": "/images/offer/categories/skusa.jpg",
+          "about": "Lovi se u severnom moru, ali je poznata  po najbolje izbalansiranom odnosu cene i kvaliteta.",
+          "table": [
+            {
+              "column1": "Cela, neočišćena - blok",
+              "column2": "WR-BLOK",
+              "column3": "150-250g"
+            },
+            {
+              "column1": "Cela, neočišćena - blok",
+              "column2": "WR-BLOK",
+              "column3": "200-400g"
+            },
+            {
+              "column1": "Cela, neočišćena - blok",
+              "column2": "WR-BLOK",
+              "column3": "300-500g"
+            }
+          ]
+        },
+        {
+          "title": "ALJAŠKA KOLJA - ALASKA POLLOCK - Theragra chalcogramma",
+          "imageSrc": "/images/offer/categories/aljaska-kolja.jpg",
+          "about": "Lovi se na Beringovom moru,uz obale Kanade i Aljaske.",
+          "table": [
+            {
+              "column1": "Bez glave, repa, utrobe - Svaki posebno zamrznut",
+              "column2": "HGT-IQF",
+              "column3": "200-400g"
+            },
+            {
+              "column1": "Fileti, bez kože - svaki posebno zamrznut, 35% glazure",
+              "column2": "Fillets, Skinless - IQF",
+              "column3": "190-250g"
+            },
+            {
+              "column1": "Fileti, bez kože - svaki posebno zamrznut, 25% glazure",
+              "column2": "Fillets,Skinless - IQF",
+              "column3": "190-250g"
+            },
+            {
+              "column1": "Fileti, bez kože - svaki posebno zamrznut, 35% glazure",
+              "column2": "Fillets, Skinless - IQF",
+              "column3": "300-400g"
+            }
+          ]
+        },
+        {
+          "title": "PASTRMKA - CALIFORNIAN TROUT - Oncorhynchus MYKISS",
+          "imageSrc": "/images/offer/categories/pastrmka.jpg",
+          "about": "Živi u kristalno čistim vodama .Gaji se i specijalno priprema kako bi bila uvek sveže proizvedena za naše potrebe.",
+          "table": [
+            {
+              "column1": "Očišćena - Svaka posebno zamrznuta",
+              "column2": "G-IQF",
+              "column3": "200-350g"
+            },
+            {
+              "column1": "Bez utrobe  - 10% glazure - Svaka posebno zamrznuta",
+              "column2": "G-10%glaze-IQF",
+              "column3": "200-300g"
+            },
+            {
+              "column1": "Bez utrobe  - 10% glazure - Svaka posebno zamrznuta",
+              "column2": "G-10%glaze-IQF",
+              "column3": "300-400g"
+            },
+            {
+              "column1": "Bez utrobe  - 10% glazure - Svaka posebno zamrznuta",
+              "column2": "G-10%glaze-IQF",
+              "column3": "400-600g"
+            },
+            {
+              "column1": "Fileti, bez utrobe - Svaka posebno zamrznuta",
+              "column2": "Fillets, without glaze - IQF",
+              "column3": "160-200g"
+            },
+            {
+              "column1": "Fileti, pastrmka losos - 10% glazure, sa kostima",
+              "column2": "Fillets, 10% glaze - with bones - IQF",
+              "column3": "150-300g"
+            },
+            {
+              "column1": "Fileti, pastrmka losos - 10% glazure, bez kostiju",
+              "column2": "Fillets, 10% glaze - bonless - IQF",
+              "column3": "150-300g"
+            }
+          ]
+        },
+        {
+          "title": "CRVENA RIBA - RED FISH - Sebastes spp.",
+          "imageSrc": "/images/offer/categories/crvena-riba.jpg",
+          "about": "Lovi se u ledenim,severnim vodama na dubinama ispod 500m,čak i do 2000m dubine.",
+          "table": [
+            {
+              "column1": "Bez glave, utrobe - Blok",
+              "column2": "HG-BLOK",
+              "column3": "200-300g"
+            },
+            {
+              "column1": "Bez glave, utrobe - Blok",
+              "column2": "HG-BLOK",
+              "column3": "300-500g"
+            },
+            {
+              "column1": "Fileti, bez kože - svaki posebno zamrznut",
+              "column2": "Fillets, skinless - with bones- IQF",
+              "column3": "200-500g"
+            }
+          ]
+        },
+        {
+          "title": "PANGAZIUS - PANGA CATFISH - Pangasinodon hypophtalmus",
+          "imageSrc": "/images/offer/categories/pangazius.jpg",
+          "about": "Gaji se u Azijskim,toplim vodama.Riba koja ima odličan prirast,s tim što se pangazius iz naše ponude lovi isključivo u strogo kontrolisanim,čistim,zdravim vodama.",
+          "table": [
+            {
+              "column1": "Fileti, PREMIUM - 20% glazure",
+              "column2": "Fillets, PREMIUM - 20% glaze",
+              "column3": "220g"
+            },
+            {
+              "column1": "Fileti, PREMIUM - 20% glazure",
+              "column2": "Fillets, PREMIUM - 20% glaze",
+              "column3": "90-120g"
+            },
+            {
+              "column1": "Fileti, PREMIUM - bez glazure",
+              "column2": "Fillets, PREMIUM - without glaze",
+              "column3": "150-200g"
+            },
+            {
+              "column1": "Fileti, NATURAL - 20% glazure - svaki posebno zamrznut",
+              "column2": "Fillets, NATURAL - 20% glaze-IGF",
+              "column3": "400g"
+            }
+          ]
+        },
+        {
+          "title": "HARINGA - ATLANTIC HERRING - Clupea harengus",
+          "imageSrc": "/images/offer/categories/haringa.jpg",
+          "about": "Lovi se u Severnom moru. Poznata je po najbolje izbalansiranom odnosu cene i kvaliteta.",
+          "table": [
+            {
+              "column1": "Cela, neočišćena - blok",
+              "column2": "WR-BLOK",
+              "column3": "250g+"
+            }
+          ]
+        },
+        {
+          "title": "BRANCIN - SEA BASS - Dicentrarchus labrax",
+          "imageSrc": "/images/offer/categories/brancin.jpg",
+          "about": "Visoko kvalitetna riba koja se gaji u Mediteranskim, čistim vodama.",
+          "table": [
+            {
+              "column1": "Očišćena - 10% glazure  - Svaka posebno zamrznuta",
+              "column2": "G-10% glaze - IQF",
+              "column3": "300-400g"
+            }
+          ]
+        },
+        {
+          "title": "ORADA - SEA BREAM - Sparu aurata",
+          "imageSrc": "/images/offer/categories/orada.jpg",
+          "about": "Riba koja je stanovnik čistih voda Mediterana i visoko cenjena u svim restoranima sveta.",
+          "table": [
+            {
+              "column1": "10% glazure  - Svaka posebno zamrznuta",
+              "column2": "G-10% glaze - IQF",
+              "column3": "300-400g"
+            },
+            {
+              "column1": "Očišćena - 10% glazure  - Svaka posebno zamrznuta",
+              "column2": "G-10% glaze - IQF",
+              "column3": "300-400g"
+            }
+          ]
+        },
+        {
+          "title": "ŠARAN - CARP - Cyprinus carpio",
+          "imageSrc": "/images/offer/categories/saran.jpg",
+          "about": "Visoko kvalitetna riba koja se gaji u Mediteranskim, čistim vodama.",
+          "table": [
+            {
+              "column1": "Kotlet",
+              "column2": "Steak",
+              "column3": "150g"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA PATAGONIKA - PATAGONIAN SQUID - LOLIGO GAJI",
+          "imageSrc": "/images/offer/categories/lignja-patagonika.jpg",
+          "about": "Lovi se u reonu Foklandskih ostrva.Bogata dobrim holesterolom,popularna je u ponudi restorana širom sveta.",
+          "table": [
+            {
+              "column1": "C4 - cela - blok",
+              "column2": "C4-WR-BLOK",
+              "column3": "10-12cm"
+            },
+            {
+              "column1": "C5 - cela - blok",
+              "column2": "C5-WR-BLOK",
+              "column3": "7-9cm"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA ILLEX - ILLEX SQUID - Illex argentinus",
+          "imageSrc": "/images/offer/categories/lignja-illex.jpg",
+          "about": "Lovi se u reonu Foklandskih ostrva.Bogata dobrim holesterolom,popularna je u ponudi restorana širom sveta.",
+          "table": [
+            {
+              "column1": "Cela - blok",
+              "column2": "WR-BLOK",
+              "column3": "50-100g"
+            }
+          ]
+        },
+        {
+          "title": "GAMBORI - RED SHRIMP - Solenocera melantho",
+          "imageSrc": "/images/offer/categories/gambori.jpg",
+          "about": "Vrlo preciziran i planiran,septembarski ulov gambora ne utiče na našu nabavku istih. Zahvaljujući izgrađenim, odličnim dugogodišnjim poslovnim konekcijama sa proizvođačima, planska proizvodnja se odvija prema našim potrebama, tako da je asortiman svežih,a zaleđenih gambora prisutan i dostupan u našoj ponudi tokom cele godine.",
+          "table": [
+            {
+              "column1": "Očišćeni - Svaka posebno zamrznut",
+              "column2": "IQF",
+              "column3": "30-50"
+            },
+            {
+              "column1": "Očišćeni - Svaka posebno zamrznut",
+              "column2": "IQF",
+              "column3": "50-70"
+            },
+            {
+              "column1": "Očišćeni - Svaka posebno zamrznut",
+              "column2": "IQF",
+              "column3": "70-100"
+            },
+            {
+              "column1": "Očišćeni - Svaka posebno zamrznut",
+              "column2": "IQF",
+              "column3": "100-200"
+            },
+            {
+              "column1": "Celi, L1",
+              "column2": "WR",
+              "column3": "10-20kom/kg"
+            },
+            {
+              "column1": "Celi, L2",
+              "column2": "WR",
+              "column3": "21-30kom/kg"
+            }
+          ]
+        },
+        {
+          "title": "DAGNJE - MUSSEL - Mytilus edulis",
+          "imageSrc": "/images/offer/categories/dagnje.jpg",
+          "about": "Veoma bogat ukus Čileanskih dagnji koje se gaje I nabavljaju sveže prema potrebema tržišta koje konstantno osluškujemo.",
+          "table": [
+            {
+              "column1": "Očišćeni - Svaka posebno zamrznuta - nekalibrisane",
+              "column2": "IQF-UNCALIBRATED",
+              "column3": ""
+            },
+            {
+              "column1": "Cele u školjci",
+              "column2": "WR",
+              "column3": "60-80kom"
+            }
+          ]
+        },
+        {
+          "title": "PLODOVI MORA - SEAFOOD COCKTAIL",
+          "imageSrc": "/images/offer/categories/plodovi-mora.jpg",
+          "about": "Mix najkvalitetnijih gambora, dagnji, kraba štapića sačinjen prema tradicionalnim zahtevima tržišta konstantno je prisutan u našem asortimanu.",
+          "table": [
+            {
+              "column1": "Pojedinačno",
+              "column2": "IQF",
+              "column3": ""
+            }
+          ]
+        },
+        {
+          "title": "KRABA ŠTAPIĆI - SURIMI",
+          "imageSrc": "/images/offer/categories/kraba-stapici.jpg",
+          "about": "Proizvod nastaje od delova mesa ribe bez učešća masti sa težnjom izdvajanja čistog ribljeg proteina, čija je uloga od velikog značaja za normalno funkcionisanje svakog organizma.",
+          "table": [
+            {
+              "column1": "Surimi",
+              "column2": "BLOK",
+              "column3": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fried-fish.png",
+      "text": "Panirani </br> program",
+      "items": [
+        {
+          "title": "PANIRANI OSLIĆ HEK",
+          "imageSrc": "/images/offer/categories/panirani-oslic.jpg",
+          "about": "Riba iz divljeg ulova, porodice Merluccius. Lovi se u Atlantskom okeanu,uz obale Urugvaja, Argentine i Antarktika.",
+          "table": [
+            {
+              "column1": "Fileti - svaki posebno zamrznut",
+              "column2": "Fillets, Pack",
+              "column3": "Pakovani",
+              "column4": "CONGALSA",
+              "column5": "100g/kom"
+            }
+          ]
+        },
+        {
+          "title": "PANIRANA LIGNJA",
+          "imageSrc": "/images/offer/categories/panirana-lignja.jpg",
+          "about": "Lovi se u reonu Foklandskih ostrva.Bogata dobrim holesterolom,popularna je u ponudi restorana širom sveta.",
+          "table": [
+            {
+              "column1": "Štapići",
+              "column2": "Sticks, pack",
+              "column3": "Pakovani",
+              "column4": "BARKA",
+              "column5": "250g"
+            },
+            {
+              "column1": "Štapići, 47% lignje - Svaki posebno zamrznut",
+              "column2": "Sticks, 47% squid - IQF",
+              "column3": "Rinfuzni",
+              "column4": "VICI",
+              "column5": "25g/kom"
+            },
+            {
+              "column1": "Kolutići, 51% lignje - Svaki posebno zamrznut",
+              "column2": "Rings, 51% squid - IQF",
+              "column3": "Rinfuzni",
+              "column4": "VICI",
+              "column5": "14g/kom"
+            },
+            {
+              "column1": "Kolutići, 45% lignje",
+              "column2": "Rings, 45% squid - IQF",
+              "column3": "Pakovani",
+              "column4": "CONGALSA",
+              "column5": "14g/kom"
+            }
+          ]
+        },
+        {
+          "title": "PANIRANI RIBLJI ŠTAPIĆI",
+          "imageSrc": "/images/offer/categories/panirani-riblji-stapici.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Štapići, 40% ribe",
+              "column2": "Sticks, 40% fish, pack",
+              "column3": "Pakovani",
+              "column4": "BARKA",
+              "column5": "250g"
+            },
+            {
+              "column1": "Štapići, 40% ribe - Svaki posebno zamrznut",
+              "column2": "Sticks, 40% fish - IQF",
+              "column3": "Rinfuzni",
+              "column4": "VICI",
+              "column5": "25g/kom"
+            }
+          ]
+        },
+        {
+          "title": "PANIRANE RIBLJE PLJESKAVICE",
+          "imageSrc": "/images/offer/categories/panirane-riblje-pljeskavice.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Pljeskavice, 50% ribe",
+              "column2": "Burgers, 50% fish, pack",
+              "column3": "Pakovani",
+              "column4": "BARKA",
+              "column5": "250g"
+            },
+            {
+              "column1": "Pljeskavice, 40% ribe - Svaka posebno zamrznuta",
+              "column2": "Burgers, 50% fish - IQF",
+              "column3": "Rinfuzni",
+              "column4": "VICI",
+              "column5": "75g/kom"
+            }
+          ]
+        },
+        {
+          "title": "PANIRANE PORCIJE PLJESKAVICE",
+          "imageSrc": "/images/offer/categories/panirane-porcije-pljeskavice.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Pljeskavice, 65% ribe - Svaka posebno zamrznuta",
+              "column2": "Burgers, 65% fish - IQF",
+              "column3": "Rinfuzni",
+              "column4": "VICI",
+              "column5": "100g/kom"
+            },
+            {
+              "column1": "Pljeskavice, 40% ribe - Svaki posebno zamrznut",
+              "column2": "Burgers, 50% fish - IQF",
+              "column3": "Rinfuzni",
+              "column4": "VICI",
+              "column5": "75g/kom"
+            }
+          ]
+        },
+        {
+          "title": "KRABA MESO",
+          "imageSrc": "/images/offer/categories/kraba-meso.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Celo - Svaka posebno zamrznuta",
+              "column2": "WR-IQF",
+              "column3": "Rinfuzni",
+              "column4": "VICI",
+              "column5": "30g/kom"
+            },
+            {
+              "column1": "Celo",
+              "column2": "WR - PACK",
+              "column3": "Pakovani",
+              "column4": "VICI",
+              "column5": "250g"
+            }
+          ]
+        },
+        {
+          "title": "PANIRANE PLJESKAVICE OD POVRĆA",
+          "imageSrc": "/images/offer/categories/panirane-pljeskavice-od-povrca.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Pljeskavice, smrznut",
+              "column2": "Burgers, frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "1125g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fish-pack.png",
+      "text": "Pakovani </br> program",
+      "items": [
+        {
+          "title": "OSLIĆ HEK - HAKE WHITING - Merluccius productus",
+          "imageSrc": "/images/offer/categories/oslic-hek.jpg",
+          "about": "Riba iz divljeg ulova, porodice Merluccius. Lovi se u Atlantskom okeanu,uz obale Urugvaja, Argentine i Antarktika.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "FRESCO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "OSLIĆ HOKI - HOKI - Macruronus magellanicus",
+          "imageSrc": "/images/offer/categories/oslic-hoki.jpg",
+          "about": "Riba iz divljeg ulova, porodice Merluccius. Lovi se u Atlantskom okeanu,uz obale Urugvaja, Argentine i Antarktika.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "LOSOS - SALMON ATLANTIC - SalmoSalar",
+          "imageSrc": "/images/offer/categories/losos.jpg",
+          "about": "Riba iz divljeg ulova,porodice Salmonida. Lovi se u severno istočnom Pacifiku, uz obale Kanade i SAD-a.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Kotlet",
+              "column3": "CCA 1000g"
+            },
+            {
+              "column1": "PREMIA",
+              "column2": "Kotlet",
+              "column3": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "PAPALINA - SPRAT - Sprattus sprattus",
+          "imageSrc": "/images/offer/categories/papalina.jpg",
+          "about": "Lovi se na Baltičkom moru uz specijalnu pripremu za ljudsku upotrebu.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "SKUŠA - ATLANTIC MACKERE - Scomber scombrus",
+          "imageSrc": "/images/offer/categories/skusa.jpg",
+          "about": "Lovi se u severnom moru, ali je poznata  po najbolje izbalansiranom odnosu cene i kvaliteta.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "ALJAŠKA KOLJA - ALASKA POLLOCK - Theragra chalcogramma",
+          "imageSrc": "/images/offer/categories/aljaska-kolja.jpg",
+          "about": "Lovi se na Beringovom moru,uz obale Kanade i Aljaske.",
+          "table": [
+            {
+              "column1": "ARO",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "500g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "PASTRMKA - CALIFORNIAN TROUT - Oncorhynchus MYKISS",
+          "imageSrc": "/images/offer/categories/pastrmka.jpg",
+          "about": "Živi u kristalno čistim vodama .Gaji se i specijalno priprema kako bi bila uvek sveže proizvedena za naše potrebe.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g",
+              "column3": " "
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g",
+              "column3": " "
+            },
+            {
+              "column1": "Fileti",
+              "column2": "Fillets",
+              "column3": "CCA 500g"
+            }
+          ]
+        },
+        {
+          "title": "CRVENA RIBA - RED FISH - Sebastes spp.",
+          "imageSrc": "/images/offer/categories/crvena-riba.jpg",
+          "about": "Lovi se u ledenim,severnim vodama na dubinama ispod 500m,čak i do 2000m dubine.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "PANGAZIUS - PANGA CATFISH - Pangasinodon hypophtalmus",
+          "imageSrc": "/images/offer/categories/pangazius.jpg",
+          "about": "Gaji se u Azijskim,toplim vodama.Riba koja ima odličan prirast,s tim što se pangazius iz naše ponude lovi isključivo u strogo kontrolisanim,čistim,zdravim vodama.",
+          "table": [
+            {
+              "column1": "ARO",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "500g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "Fileti",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "HARINGA - ATLANTIC HERRING - Clupea harengus",
+          "imageSrc": "/images/offer/categories/haringa.jpg",
+          "about": "Lovi se u Severnom moru. Poznata je po najbolje izbalansiranom odnosu cene i kvaliteta.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA PATAGONIKA - PATAGONIAN SQUID - LOLIGO GAJI",
+          "imageSrc": "/images/offer/categories/lignja-patagonika.jpg",
+          "about": "Lovi se u reonu Foklandskih ostrva.Bogata dobrim holesterolom,popularna je u ponudi restorana širom sveta.",
+          "table": [
+            {
+              "column1": "Transparentna kesa",
+              "column2": "C4, očišćena",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "C4, očišćena",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "C4L, očišćena",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "C4L, očišćena",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćena, kolutići i krakovi",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćena",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćena",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćena",
+              "column3": "7-9cm, 1000g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćena, trake i kraci",
+              "column3": "12-14cm, 1000g"
+            },
+            {
+              "column1": " ",
+              "column2": "Očišćena",
+              "column3": "1000g"
+            },
+            {
+              "column1": " ",
+              "column2": "Očišćena",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Očišćena",
+              "column3": "1000g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Očišćena",
+              "column3": "400g"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA ILLEX - ILLEX SQUID - Illex argentinus",
+          "imageSrc": "/images/offer/categories/lignja-illex.jpg",
+          "about": "Lovi se u reonu Foklandskih ostrva.Bogata dobrim holesterolom,popularna je u ponudi restorana širom sveta.",
+          "table": [
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćena, kolutići i krakovi",
+              "column3": "400g"
+            }
+          ]
+        },
+        {
+          "title": "GAMBORI - RED SHRIMP - Solenocera melantho",
+          "imageSrc": "/images/offer/categories/gambori.jpg",
+          "about": "Vrlo preciziran i planiran,septembarski ulov gambora ne utiče na našu nabavku istih. Zahvaljujući izgrađenim, odličnim dugogodišnjim poslovnim konekcijama sa proizvođačima, planska proizvodnja se odvija prema našim potrebama, tako da je asortiman svežih,a zaleđenih gambora prisutan i dostupan u našoj ponudi tokom cele godine.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Očišćeni",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Očišćeni",
+              "column3": "1000g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Očišćeni",
+              "column3": "100-200 kom/500g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Očišćeni",
+              "column3": "30-50 kom/500g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćeni",
+              "column3": "100-200 kom/400g"
+            }
+          ]
+        },
+        {
+          "title": "DAGNJE - MUSSEL - Mytilus edulis",
+          "imageSrc": "/images/offer/categories/dagnje.jpg",
+          "about": "Veoma bogat ukus Čileanskih dagnji koje se gaje I nabavljaju sveže prema potrebema tržišta koje konstantno osluškujemo.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Očišćeni",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Očišćeni",
+              "column3": "1000g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Očišćeni",
+              "column3": "500g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćeni",
+              "column3": "100-200 kom/400g"
+            }
+          ]
+        },
+        {
+          "title": "PLODOVI MORA - SEAFOOD COCKTAIL",
+          "imageSrc": "/images/offer/categories/plodovi-mora.jpg",
+          "about": "Mix najkvalitetnijih gambora, dagnji, kraba štapića sačinjen prema tradicionalnim zahtevima tržišta konstantno je prisutan u našem asortimanu.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Očišćeni",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Očišćeni",
+              "column3": "1000g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Očišćeni",
+              "column3": "500g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćeni",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Očišćeni",
+              "column3": "1000g"
+            }
+          ]
+        },
+        {
+          "title": "KRABA ŠTAPIĆI - SURIMI",
+          "imageSrc": "/images/offer/categories/kraba-stapici.jpg",
+          "about": "Proizvod nastaje od delova mesa ribe bez učešća masti sa težnjom izdvajanja čistog ribljeg proteina, čija je uloga od velikog značaja za normalno funkcionisanje svakog organizma.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": " ",
+              "column3": "30komx200g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": " ",
+              "column3": "250g "
+            },
+            {
+              "column1": "BARKA",
+              "column2": " ",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparentna kesa",
+              "column2": "Surimi komadi",
+              "column3": "1000g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/sardines.png",
+      "text": "Dimljeni </br> program",
+      "items": [
+        {
+          "title": "DIMLJENI LOSOS",
+          "imageSrc": "/images/offer/categories/dimljeni-losos.jpg",
+          "about": "Riba iz divljeg ulova,porodice Salmonida. Lovi se u severno istočnom Pacifiku, uz obale Kanade i SAD-a.",
+          "table": [
+            {
+              "column1": "Fileti",
+              "column2": "Fillets",
+              "column3": "Pakovani",
+              "column4": "100g"
+            },
+            {
+              "column1": "Fileti",
+              "column2": "Fillets",
+              "column3": "Pakovani",
+              "column4": "180g"
+            },
+            {
+              "column1": "Kotlet",
+              "column2": "Steak",
+              "column3": "Pakovani",
+              "column4": "CCA 500g"
+            }
+          ]
+        },
+        {
+          "title": "DIMLJENA SKUŠA",
+          "imageSrc": "/images/offer/categories/dimljena-skusa.jpg",
+          "about": "Lovi se u severnom moru, ali je poznata  po najbolje izbalansiranom odnosu cene i kvaliteta.",
+          "table": [
+            {
+              "column1": "Očišćena, bez utrobe",
+              "column2": "G",
+              "column3": "Rinfuzni",
+              "column4": "300-500g"
+            },
+            {
+              "column1": "Očišćena, bez utrobe",
+              "column2": "G",
+              "column3": "Rinfuzni",
+              "column4": "CCA 10kg"
+            }
+          ]
+        },
+        {
+          "title": "DIMLJENA PASTRMKA",
+          "imageSrc": "/images/offer/categories/dimljena-pastrmka.jpg",
+          "about": "Živi u kristalno čistim vodama. Gaji se i specijalno priprema kako bi bila uvek sveže proizvedena za naše potrebe.",
+          "table": [
+            {
+              "column1": "Fileti",
+              "column2": "Fillets",
+              "column3": "Pakovani",
+              "column4": "CCA 500g"
+            },
+            {
+              "column1": "Fileti - hladno dimljeni",
+              "column2": "Cold smoked fillets",
+              "column3": "Pakovani",
+              "column4": "CCA 10kg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/big-fish.png",
+      "text": "Svež </br> program",
+      "items": [
+        {
+          "title": "PASTRMKA",
+          "imageSrc": "/images/offer/categories/sveza-pastrmka.jpg",
+          "about": "Živi u kristalno čistim vodama. Gaji se i specijalno priprema kako bi bila uvek sveže proizvedena za naše potrebe.",
+          "table": [
+            {
+              "column1": "Cela, neočišćena, na ledu",
+              "column2": "WR-IQF",
+              "column3": "BIH",
+              "column4": "250-350g"
+            },
+            {
+              "column1": "Cela, neočišćena, na ledu",
+              "column2": "WR-IQF",
+              "column3": "Srbija",
+              "column4": "800g+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/tuna.png",
+      "text": "Konzerve",
+      "items": [
+        {
+          "title": "TUNJEVINA",
+          "imageSrc": "/images/offer/categories/tunjevina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Komadna",
+              "column2": "BARKA",
+              "column3": "185g"
+            },
+            {
+              "column1": "Mrvljena",
+              "column2": "BARKA",
+              "column3": "185g"
+            },
+            {
+              "column1": "Komadna",
+              "column2": "BARKA",
+              "column3": "160g"
+            },
+            {
+              "column1": "Mrvljena",
+              "column2": "BARKA",
+              "column3": "160g"
+            }
+          ]
+        },
+        {
+          "title": "PALMINO ULJE",
+          "imageSrc": "/images/offer/categories/palmino-ulje.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Ulje",
+              "column2": "BARKA",
+              "column3": "Indonezija",
+              "column4": "20kg"
+            }
+          ]
+        },
+        {
+          "title": "SARDINA",
+          "imageSrc": "/images/offer/categories/sardina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Komadna, u biljnom ulju",
+              "column2": "BARKA",
+              "column3": "",
+              "column4": "125g"
+            },
+            {
+              "column1": "Komadna, u biljnom ulju",
+              "column2": "BARKA",
+              "column3": "",
+              "column4": "125g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fries.png",
+      "text": "Pomfrit i proizvodi </br> od krompira",
+      "items": [
+        {
+          "title": "POMFRIT",
+          "imageSrc": "/images/offer/categories/pomfrit.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "COUNTRY HOUSE, Smrznut",
+              "column2": "COUNTRY HOUSE, Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "Rebrasti, Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "Rebrasti, Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "SUPER CRUNCH, Smrznut",
+              "column2": "SUPER CRUNCH, Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "SUPER CRUNCH, Smrznut",
+              "column2": "SUPER CRUNCH, Frozen",
+              "column3": "Pakovani",
+              "column4": "KUKTA",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "SUPER CRUNCH, Smrznut",
+              "column2": "SUPER CRUNCH, Frozen",
+              "column3": "Pakovani",
+              "column4": "BARKA",
+              "column5": "1000g"
+            },
+            {
+              "column1": "SUPER CRISPY, Smrznut",
+              "column2": "SUPER CRISPY, Frozen",
+              "column3": "Pakovani",
+              "column4": "KUKTA",
+              "column5": "4x2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "KRIŠKE KROMPIRA",
+          "imageSrc": "/images/offer/categories/kriske-krompira.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Sa korom, Smrznut",
+              "column2": "Pakovani",
+              "column3": "AVIKO",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "Začinjen, Smrznut",
+              "column2": "Pakovani",
+              "column3": "AVIKO",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "Sa korom, Smrznut",
+              "column2": "Pakovani",
+              "column3": "KUKTA",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "Začinjen, Smrznut",
+              "column2": "Pakovani",
+              "column3": "KUKTA",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "Umak, Chef s Excellence",
+              "column2": "Sauce, Chef s Excellence",
+              "column3": "Pakovani",
+              "column4": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "PLOČICE OD KROMPIRA",
+          "imageSrc": "/images/offer/categories/plocice-od-krompira.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "KROKETI OD KROMPIRA",
+          "imageSrc": "/images/offer/categories/kroketi-od-krompira.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "ROSTY KUGLICE",
+          "imageSrc": "/images/offer/categories/rosty-kuglice.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "KROMPIRIĆI",
+          "imageSrc": "/images/offer/categories/krompirici.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "KUKTA",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "SLATKI KROMPIR",
+          "imageSrc": "/images/offer/categories/slatki-krompir.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Kocke, svaki posebno zamrznut",
+              "column2": "DICE-IQF",
+              "column3": "Pakovani",
+              "column4": "GEDIMEX",
+              "column5": "1000g"
+            }
+          ]
+        },
+        {
+          "title": "KOLUTIĆI OD LUKA",
+          "imageSrc": "/images/offer/categories/kolutici-od-luka.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "KUKTA",
+              "column5": "1000g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/big-fish.png",
+      "text": "Povrće",
+      "items": [
+        {
+          "title": "ĐUVEČ MIX",
+          "imageSrc": "/images/offer/categories/djuvec-mix.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Smrznut, gurmanski",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "ČORBA MIX",
+          "imageSrc": "/images/offer/categories/corbe-mix.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Smrznut, panonska",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "RUSKA SALATA",
+          "imageSrc": "/images/offer/categories/ruska-salata.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Smrznut, panonska",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "BROKOLI",
+          "imageSrc": "/images/offer/categories/brokoli.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut, mladi",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "KRALJEVSKA MEŠAVINA",
+          "imageSrc": "/images/offer/categories/kraljevska-mesavina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Smrznut, panonska",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "ZLATNA MEŠAVINA",
+          "imageSrc": "/images/offer/categories/zlatna-mesavina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut, panonska",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "BORANIJA ŽUTA",
+          "imageSrc": "/images/offer/categories/zuta-buranija.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Smrznut, panonska",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "BORANIJA ZELENA",
+          "imageSrc": "/images/offer/categories/zelena-boranija.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut, mlada",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "GRAŠAK",
+          "imageSrc": "/images/offer/categories/grasak.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "MINECOM",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Smrznut, ekstra mladi",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "KUKURUZ ŠEĆERAC",
+          "imageSrc": "/images/offer/categories/kukuruz-secerac.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Rinfuzni",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Smrznut",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Smrznut, mlad",
+              "column2": "Frozen",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "SPANAĆ",
+          "imageSrc": "/images/offer/categories/spanac.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Smrznut, briket",
+              "column2": "Frozen, bricket",
+              "column3": "Pakovani",
+              "column4": "FRIGLO",
+              "column5": "400g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fried-chicken.png",
+      "text": "Proizvodi </br> od piletine",
+      "items": [
+        {
+          "title": "PILEĆI MEDALJONI",
+          "imageSrc": "/images/offer/categories/pileci-medaljoni.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Sa kulenom i feta sirom",
+              "column2": "With kulen and feta cheese",
+              "column3": "Pakovani",
+              "column4": "PIKOLINA",
+              "column5": "Srbija",
+              "column6": "400g"
+            }
+          ]
+        },
+        {
+          "title": "PANIRANI PILEĆI ŠTAPIĆI",
+          "imageSrc": "/images/offer/categories/panirani-pileci-stapici.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Sa susamom",
+              "column2": "With sesame",
+              "column3": "Pakovani",
+              "column4": "PIKOLINA",
+              "column5": "Srbija",
+              "column6": "400g"
+            }
+          ]
+        },
+        {
+          "title": "PILEĆA KARAĐORĐEVA",
+          "imageSrc": "/images/offer/categories/pileca-karadjordjeva.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Pakovani",
+              "column2": "PIKOLINA",
+              "column3": "Srbija",
+              "column4": "400g",
+              "column5": "",
+              "column6": ""
+            }
+          ]
+        },
+        {
+          "title": "PILEĆA BEČKA ŠNICLA",
+          "imageSrc": "/images/offer/categories/pileca-becka-snicla.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Pakovani",
+              "column2": "PIKOLINA",
+              "column3": "Srbija",
+              "column4": "400g"
+            }
+          ]
+        },
+        {
+          "title": "PILEĆI ĆEVAP",
+          "imageSrc": "/images/offer/categories/no-image.webp",
+          "about": "",
+          "table": [
+            {
+              "column1": "Pakovani",
+              "column2": "PIKOLINA",
+              "column3": "Srbija",
+              "column4": "500g"
+            }
+          ]
+        },
+        {
+          "title": "ROLOVANO PILE",
+          "imageSrc": "/images/offer/categories/rolovano-pile.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Sa slaninom, kačkavaljem, šampinjonima",
+              "column2": "With bacon, cheese, mushrooms",
+              "column3": "Pakovani",
+              "column4": "PIKOLINA",
+              "column5": "Srbija",
+              "column6": "CCA 1kg"
+            }
+          ]
+        },
+        {
+          "title": "LAZANJE BOLONJEZE",
+          "imageSrc": "/images/offer/categories/lazanje-bolonjeze.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Sa pilećim belim mesom",
+              "column2": "With chicken white meat",
+              "column3": "Pakovani",
+              "column4": "PIKOLINA",
+              "column5": "Srbija",
+              "column6": "700g"
+            }
+          ]
+        },
+        {
+          "title": "POHOVANI SIR",
+          "imageSrc": "/images/offer/categories/no-image.webp",
+          "about": "",
+          "table": [
+            {
+              "column1": "Pakovani",
+              "column2": "PIKOLINA",
+              "column3": "Srbija",
+              "column4": "300g"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

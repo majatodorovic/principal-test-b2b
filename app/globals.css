@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  @apply text-2xl font-extrabold text-white lg:text-4xl xl:text-left 2xl:text-5xl;
+}
+
+h2 {
+  @apply text-2xl font-extrabold text-white lg:text-4xl xl:text-left 2xl:text-5xl;
+}
+
+.pageGap {
+  @apply mb-[60px] flex flex-col gap-[60px] lg:mb-[100px] lg:gap-[100px];
+}
+
+.strokeText {
+  -webkit-text-stroke: 1px white;
+}
+
+.blueFilter {
+  filter: brightness(0) saturate(100%) invert(26%) sepia(100%) saturate(535%)
+    hue-rotate(154deg) brightness(101%) contrast(96%);
+}
+
+.whiteFilter {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%)
+    hue-rotate(281deg) brightness(108%) contrast(100%);
+}
+
+.blackFilter {
+  filter: brightness(0) saturate(100%);
+}
+
+.roundedSection {
+  @apply rounded-[32px] xl:rounded-[50px] 2xl:rounded-[100px];
+}
+
+.paddingInSection {
+  @apply p-6 lg:p-10 xl:p-[60px] 2xl:p-[100px];
+}
+
+.paddingOutSection {
+  @apply sm:px-6 lg:px-12 xl:px-20 2xl:px-[80px];
+}
+
+.responsiveText {
+  @apply text-sm lg:text-lg;
+}
+
+.mainButton {
+  @apply rounded-lg border border-blue bg-blue py-2 text-center text-sm text-white transition duration-300 hover:bg-white hover:text-blue lg:rounded-2xl xl:text-base;
+}
+
+.outlineButton {
+  @apply rounded-lg border border-white py-2 text-center text-sm text-white transition duration-300 hover:bg-white hover:text-blue lg:rounded-2xl xl:text-base;
+}
+
+.inputRounded {
+  @apply w-full rounded-full border bg-blue/20 p-4 text-sm text-blue placeholder:text-blue focus:outline-none focus:ring-2 focus:ring-blue;
+}
+
+.hoverCard:hover {
+  @apply hover:bg-blue;
+
+  p {
+    @apply text-white;
+  }
+
+  img {
+    @apply whiteFilter;
+  }
+}
+
+.scrollOffset {
+  scroll-margin-top: 200px;
+
+  @media (min-width: 1280px) {
+    scroll-margin-top: 400px;
+  }
+}

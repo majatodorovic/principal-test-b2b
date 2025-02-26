@@ -1,0 +1,78 @@
+{
+  "title": "Ribarnice",
+  "breadcrumbs": [
+    {
+      "name": "Početna",
+      "link": ""
+    },
+    {
+      "name": "Ribarnice",
+      "link": "fishmarkets"
+    }
+  ],
+  "newspaper": {
+    "title": "Dobrodošli u najbolju </br> ribarnicu u gradu.",
+    "description": [
+      {
+        "text": "Maloprodajni objekti prepoznatljivi po nazivu našeg brenda <strong>„BARKA“</strong>, koji su u vlasništvu kompanije, kupcima su znani po ponudi širokog asortimana smrznute, sveže i žive ribe, paniranog programa, smrznutog povrća, ali i po bogatoj usluzi keteringa. Garantujemo proizvode vrhunskog kvaliteta i pripreme, originalno aranžiranje, besprekornu uslugu."
+      },
+      {
+        "text": "Na našem meniju su sveže pripremljeni zalogaji iz posnog, slanog i slatkog programa: sve vrste ribljih specijaliteta, kuvana jela, posni ordeveri, salate, rolati, slane i slatke pite, sitni kolači… Izlazimo u susret svim željama i zahtevima klijenta! "
+      },
+      {
+        "text": "Svaku Vašu zamisao pretočićemo u delo, a savetima kvalifikovanog kadra sa dugogodišnjim iskustvom u radu u ovoj delatnosti, možemo Vam pomoći da pronađete najoptimalnije rešenje za Vas.Sve sveže pripremljeno,rado ćemo dostaviti na Vaš kućni prag, po Vašoj želji i u dogovoreno vreme. "
+      }
+    ],
+    "woltText": "Poručite online",
+    "restoraunts": [
+      {
+        "imageSrc": "/images/fishmarkets/barka-1.jpg",
+        "name": "Maloprodaja i priprema hrane - <strong>Ribarnica Barka 1</strong>",
+        "address": "Obilićeva 5, </br> 32000 Čačak, Srbija",
+        "phone": "+381 32 325 242"
+      },
+      {
+        "imageSrc": "/images/fishmarkets/barka-2.jpg",
+        "name": "Maloprodaja </br> <strong>Ribarnica Barka 2</strong>",
+        "address": "Vladike Nikolaja Velimirovića </br> 32, 32000 Čačak, Srbija",
+        "phone": "+381 32 531 1000"
+      }
+    ]
+  },
+  "food": {
+    "title": "Veliki izbor jela.",
+    "description": [
+      {
+        "text": "Pored tradicionalnog mediteranskog ukusa nudimo veliki izbor posnih jela i salata u kombinaciji sa pitama i kolačima ručne izrade."
+      },
+      {
+        "text": "Posna sarma, som paprikaš, podvarak sa dimijenim šaranom, riblja čorba, kuvana boranija i grašak, skuša u ulju, rižoto sa plodovima mora, posne pihtije, hrono hleb, posne slane pite sa pečurkama i krompirom, veliki izbor salata, domaće baklave, pita sa suvim šljivama, jabukom, višnjom, vanilice."
+      },
+      {
+        "text": "...i još mogo toga."
+      },
+      {
+        "text": "Dozvolite da budemo domaćini na Vašoj Slavi!"
+      }
+    ],
+    "imageSrc": "/images/fishmarkets/food.jpg"
+  },
+  "specialties": {
+    "title": "Sveža i smrznuta riba i riblji specijaliteti.",
+    "description": [
+      {
+        "text": "Najkvalitetnija morska riba ulovljena u moru i smrznuta na brodu, plodovi mora i sve vrste lignji, sveža i smiznuta rečna riba, panirani riblji proizvodi, riblji fileti, dimijena riba."
+      }
+    ],
+    "imageSrc": "/images/fishmarkets/specialties.jpg"
+  },
+  "potato": {
+    "title": "Pomfrit i proizvodi od krompira.",
+    "description": [
+      {
+        "text": "Rosti kuglice od krompira, pomfrit super hrskavi, pljeskavice od krompira, krompir sa korom, Barka pomfrit."
+      }
+    ],
+    "imageSrc": "/images/fishmarkets/potato.jpg"
+  }
+}

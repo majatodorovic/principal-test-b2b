@@ -1,0 +1,1438 @@
+{
+  "title": "Barka - Premium Products Brand",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "link": ""
+    },
+    {
+      "name": "Barka",
+      "link": "barka"
+    }
+  ],
+  "about": [
+    {
+      "text": "Regionally recognized and present in large retail corporations, the HoReCa sector, supermarkets in Serbia, and better stores in neighboring countries, the brand <strong>“BARKA”</strong> uncompromisingly avoids competing with private label products where price alone determines which product gets packaged. Instead, it almost lucidly remains committed to packaging only the highest quality fish and seafood that can be offered to the Serbian market."
+    },
+    {
+      "text": "Consumers can be completely sure that by choosing the <strong>“BARKA”</strong> brand, they are getting fish and seafood treated according to the highest quality standards."
+    },
+    {
+      "text": "Long-term recertifications of HACCP, IFS, and other demanding international standards confirm the full dedication of the <strong>“BARKA”</strong> team."
+    }
+  ],
+  "products": [
+    {
+      "title": "BARKA RED FISH",
+      "imageSrc": "/images/barka/crvena-riba.jpg",
+      "description": [
+        {
+          "text": "At PRINCIPAL DUO, the production process involves processing imported products, primarily focusing on 'cutting,' i.e., removing the spines and packaging the final product, BARKA RED FISH."
+        },
+        {
+          "text": "It is one of the highest quality fish that holds a place in Serbian cuisine, despite its slightly higher price compared to other items in the offer."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Germany"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 1000g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "Approximately 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA CLEANED MUSSELS",
+      "imageSrc": "/images/barka/dagnje-ociscene-1kg.jpg",
+      "description": [
+        {
+          "text": "Sea inhabitants found not far from the shore, imported from the Galicia region or Chile. Their special value lies in the complete product obtained by 'harvesting' the shells without thermal processing. However, responding to consumer demands and the Serbian market, mussels are mostly available as processed, cleaned products."
+        },
+        {
+          "text": "In this regard, BARKA Cleaned Mussels represent a PREMIUM product of carefully selected imported quality, processed to the final product."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Chile"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 1kg"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "Approximately 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA CLEANED MUSSELS",
+      "imageSrc": "/images/barka/dagnje-ociscene-1kg.jpg",
+      "description": [
+        {
+          "text": "Sea inhabitants found not far from the shore, imported from the Galicia region or Chile. Their special value lies in the complete product obtained by 'harvesting' the shells without thermal processing. However, responding to consumer demands and the Serbian market, mussels are mostly available as processed, cleaned products."
+        },
+        {
+          "text": "In this regard, BARKA Cleaned Mussels represent a PREMIUM product of carefully selected imported quality, processed to the final product."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Chile"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 400g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "20 units"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA CLEANED SHRIMP",
+      "imageSrc": "/images/barka/gambori-ocisceni-1kg.jpg",
+      "description": [
+        {
+          "text": "A product from the group of sea fruits that comes from wild catches, feeding on plankton and parts of decomposed plant life. Shrimp may also come from farming, a process that involves cultivating them from larvae to the final product. These shrimp are processed, packed under strictly controlled conditions while adhering to legal regulations and EU requirements, resulting in our product, BARKA CLEANED SHRIMP."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "China"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 1kg"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "Approximately 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA CLEANED SHRIMP",
+      "imageSrc": "/images/barka/gambori-ocisceni-400g.jpg",
+      "description": [
+        {
+          "text": "A product from the group of sea fruits that comes from wild catches, feeding on plankton and parts of decomposed plant life. Shrimp may also come from farming, a process that involves cultivating them from larvae to the final product. These shrimp are processed, packed under strictly controlled conditions while adhering to legal regulations and EU requirements, resulting in our product, BARKA CLEANED SHRIMP."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "China"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 400g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "20 units"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA HERRING",
+      "imageSrc": "/images/barka/haringa.jpg",
+      "description": [
+        {
+          "text": "A highly valued fish, most prevalent in Scandinavian and Baltic countries, is the Herring. On their tables, herring is an indispensable daily product, which is one of the reasons why resources for sourcing this blue sea fish are extremely limited."
+        },
+        {
+          "text": "However, the rarity that the company PRINCIPAL DUO possesses from its suppliers allows us to offer it in the form of a PREMIUM product, BARKA Herring."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Ireland"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 1000g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "Approximately 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "FISH SOUP MIX",
+      "imageSrc": "/images/barka/komplet-za-riblju-corbu.jpg",
+      "description": [
+        {
+          "text": "An essential product in traditional Alaskan recipes! The FISH SOUP MIX or BARKA is a carefully selected blend of larger, finest pieces of carp, bream, catfish, rudd, and grass carp, which, when prepared with vegetables, without any additives, creates a rhapsody of flavors."
+        },
+        {
+          "text": "To complete the experience, our BARKA product is enriched with 10% free product."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Serbia"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 500g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "Approximately 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/pot.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA CRAB MEAT WITH REAL CLAWS",
+      "imageSrc": "/images/barka/kraba-sa-pravim-kljestima.jpg",
+      "description": [
+        {
+          "text": "BARKA Crab Meat with Real Claws contains the natural aroma of crab and the finest surimi from white fish, shaped into a tasty bite with original crab claws, then partially prepared and breaded. After a few minutes of preparation, our BARKA product is ready for consumption in its exotic and irresistibly crispy and delicious form."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Estonia"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 250g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "20 units"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "40#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA SQUID STICKS",
+      "imageSrc": "/images/barka/lignja-stapici.jpg",
+      "description": [
+        {
+          "text": "BARKA Squid Sticks are made according to the traditional recipe of northern European countries."
+        },
+        {
+          "text": "The taste of BARKA Squid Sticks is adjusted to the acceptable tastes of our region, with the right seasoning and texture of the meat."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Estonia, Germany"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 250g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "10 units"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "140#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BARKA CLEANED SQUID",
+      "imageSrc": "/images/barka/lignje-ociscene-1kg.jpg",
+      "description": [
+        {
+          "text": "BARKA Cleaned Squid is the final product following a special treatment process carried out at the production facilities of PRINCIPAL DUO, which are equipped to the highest standards. Hand-cleaned squid ensures no errors in processing, and combined with the high-quality, packaged product, results in a unique offering in the market."
+        },
+        {
+          "text": "Our cleaned squid, due to its quality, dedication, and special treatment up to the final product, BARKA, holds the CHAMPION TITLE in the fish products category at the International Agricultural Fair in Novi Sad."
+        }
+      ],
+      "country": {
+        "label": "Country of Origin:",
+        "text": "Spain, Estonia"
+      },
+      "comercialPack": {
+        "label": "Commercial Packaging:",
+        "text": "Approximately 1000g"
+      },
+      "transportPack": {
+        "label": "Transport Packaging:",
+        "text": "Approximately 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage Method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation Method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+
+    {
+      "title": "CLEARED SQUID BARKA",
+      "imageSrc": "/images/barka/lignje-ociscene-400g.jpg",
+      "description": [
+        {
+          "text": "The cleaned squid BARKA is a final product that underwent a special treatment process based on a unique recipe, carried out in the production facilities of the company PRINCIPAL DUO, equipped to the highest standards. Hand-cleaned squid ensures no errors in processing, resulting in a high-quality and well-packaged product that stands out in the market."
+        },
+        {
+          "text": "Our cleaned squid, due to its quality, dedication, and special treatment during production, carries the CHAMPION TITLE in the meat product group at the International Agricultural Fair in Novi Sad."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Spain, Estonia"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 400g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "18pcs"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SALMON CUTLETS BARKA",
+      "imageSrc": "/images/barka/losos-kotleti.jpg",
+      "description": [
+        {
+          "text": "Salmon arrives at PRINCIPAL DUO in whole pieces, weighing 1-3kg per piece. In our production, specially trained staff uses a specialized cutting machine to produce BARKA salmon cutlets, inspecting each piece in strictly controlled conditions, adhering to all HACCP system requirements."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "USA, Canada"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1000g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+
+    {
+      "title": "HADDOCK FILLET ALASKAN COD BARKA",
+      "imageSrc": "/images/barka/oslic-fileti-aljaska-kolja.jpg",
+      "description": [
+        {
+          "text": "The fillets of Alaskan Cod BARKA, once known as APO fillets, come from completely wild catches. After mechanical processing, mostly in China, involving filleting and packaging processes while strictly adhering to health and hygiene standards in the production of the company PRINCIPAL DUO, they become the final product HADDOCK FILLET ALASKAN COD BARKA."
+        },
+        {
+          "text": "One of the interesting facts is that this fish lives in schools, feeds on plankton, and since it is not farmed, it is not on the list of endangered species, meaning it is abundant in marine depths in sufficient quantities for capture."
+        },
+        {
+          "text": "It is characterized by exceptionally white meat that easily combines with other flavors. Due to its mild fish taste, Haddock Fillet Alaskan Cod BARKA is ideal for fast food restaurants, kindergartens, and similar establishments where quick preparation in fryers makes it a smarter choice. The resources are good, and as a cost-effective, competitive product, Haddock Fillet Alaskan Cod BARKA has even found its place in nuggets and burgers."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "China, Vietnam"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 500g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "12pcs"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "100#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "HADDOCK HEK BARKA",
+      "imageSrc": "/images/barka/oslic-hek.jpg",
+      "description": [
+        {
+          "text": "Under the BARKA brand, we offer headless, tailless, and gutted fish of the species MERLUCIUS SPP., the highest quality on the Serbian market, commonly known as HADDOCK. This perfectly balanced, organic, wild white fish has stable flesh consistency with a subtle mineral and fat influence."
+        },
+        {
+          "text": "Educated chefs and fans of this hedonistic experience prepare it by briefly blanching, preserving all the richness of proteins and additives that contribute the most to the taste of this fish. Since HADDOCK HEK BARKA contains no excess fats, it is an ideal component in a mix for preparing a great fish soup."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Spain, Argentina"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1000g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "HADDOCK HOKI BARKA",
+      "imageSrc": "/images/barka/oslic-hoki.jpg",
+      "description": [
+        {
+          "text": "Unlike Hake, HADDOCK HOKI from the BARKA brand is a blue fish from the same group. Its high protein content stimulates metabolism and thus fat burning. Alongside cod, ray, and flatfish, HOKI belongs to the group of lean fish, containing less than 2% lipids. The highest concentration of omega-3 fatty acids is found in haddock, in addition to the other two types of fish."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Spain, Argentina"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1000g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+
+    {
+      "title": "PALM OIL BARKA",
+      "imageSrc": "/images/barka/palmino-ulje.jpg",
+      "description": [
+        {
+          "text": "Palm oil comes from Indonesia. It is specially made according to specifications for the traditional preparation of Serbian specialties. Palm fat with high viscosity, whose quality ingredients under the Barka brand, give prepared products a distinctive taste."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Indonesia"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "20kg"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "20kg"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "60#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": []
+      }
+    },
+    {
+      "title": "PANGASIUS FILLET BARKA",
+      "imageSrc": "/images/barka/pangazius-fileti.jpg",
+      "description": [
+        {
+          "text": "Pangasius is farmed in mountain regions, in strictly controlled, specific pools made next to the Mekong River. The water in which Pangasius is farmed is safe and health-compliant, thanks to an excellent filtration system under the supervision of European and American experts."
+        },
+        {
+          "text": "The product quality depends on the desires of the importer, indicating that the product's quality offer can be diverse."
+        },
+        {
+          "text": "Pangasius Fillet BARKA refers to the product we import and package under strict EU-compliant conditions, setting our offer apart in every aspect compared to the competition, especially in terms of better product quality."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Vietnam"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 500g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "20 x 500g"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "42#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SARDINE BARKA",
+      "imageSrc": "/images/barka/papalina.jpg",
+      "description": [
+        {
+          "text": "The company PRINCIPAL DUO, as a privileged entity in the fish business, holds a procurement contract with a company that is the only one performing the production process on the shores of the Baltic Sea. This cooperation and the positioning of the production facility next to the sea is of great importance, as the sardines from the sea come directly to the production facility, significantly affecting their unchanged freshness, shape, and quality."
+        },
+        {
+          "text": "With unchanged nutritional composition, in our production sector, we create SARDINE BARKA."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Poland"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1000g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SEAFOOD BARKA",
+      "imageSrc": "/images/barka/plodovi-mora.jpg",
+      "description": [
+        {
+          "text": "SEA FOOD COCKTAIL is the global term for seafood, explaining the diversity of flavors and the variety of preparation methods, depending on the market and its cuisine."
+        },
+        {
+          "text": "The MIX of seafood carefully selected and proportionally designed to cater to Mediterranean taste is precisely our branded product SEAFOOD BARKA."
+        },
+        {
+          "text": "*In the production of PRINCIPAL DUO, we offer a well-developed service for creating customized seafood mixes according to customer requests."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Spain, Lithuania, Chile, China"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1kg"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Number of transport packages on a pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SEAFOOD BARKA",
+      "imageSrc": "/images/barka/plodovi-mora.jpg",
+      "description": [
+        {
+          "text": "SEA FOOD COCKTAIL is the global term for seafood, explaining the diversity of flavors and preparation possibilities depending on the market, i.e. its cuisine."
+        },
+        {
+          "text": "The MIX of seafood, carefully selected and proportionally designed to cater to the Mediterranean taste, is our branded product SEAFOOD BARKA."
+        },
+        {
+          "text": "*In the production of PRINCIPAL DUO, we have a developed service for forming seafood mixes according to customer preferences."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Spain, Lithuania, Chile, China"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 400g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "20 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "FRENCH FRIES BARKA",
+      "imageSrc": "/images/barka/pomfrit.jpg",
+      "description": [
+        {
+          "text": "Barka French fries are made and packaged in the most modern factories in the EU, from potato varieties that provide a refined taste."
+        },
+        {
+          "text": "Each package is carefully inspected to meet defined parameters and limits, in terms of size, shape, and quality. Barka French fries are currently the best-selling fries in 1 kg packages in the Western Balkans region, which is a confirmation of understanding the brand and quality in response to market demands."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "EU"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1kg"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "72#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "FISH BURGERS BARKA 250g, 50% fish",
+      "imageSrc": "/images/barka/riblje-pljeskavice.jpg",
+      "description": [
+        {
+          "text": "The creation of fish burgers in the mid-20th century in Germany was a solution for households that, unfortunately, did not have enough time to dedicate to traditional family meals and food preparation. The idea was to provide a fish-based meal quickly. This is how fish burgers or popularly called 'fish burgers' were created."
+        },
+        {
+          "text": "Made from exceptionally high-quality fish fillets coated with breadcrumbs, whole grains, and natural spices, fish burgers are available in varieties with very small fish content, making them affordable for large quantities while still being accessible to the masses."
+        },
+        {
+          "text": "Our packaged and branded product FISH BURGERS BARKA contains a large percentage of fish and justifiably carries the title of PREMIUM product."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "EU"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 250g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "10 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "140#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "BREADCRUMBED FISH STICKS BARKA 250g, 40% fish",
+      "imageSrc": "/images/barka/riblji-stapici.jpg",
+      "description": [
+        {
+          "text": "The creation of fish sticks in the mid-20th century in Germany was a solution for households that, unfortunately, did not have enough time to dedicate to traditional family meals and food preparation. The idea was to provide a fish-based meal quickly. This is how fish sticks or popularly called 'fish fingers' were created."
+        },
+        {
+          "text": "Made from exceptionally high-quality fish fillets coated with breadcrumbs, whole grains, and natural spices, fish sticks are available in varieties with very small fish content, making them affordable for large quantities while still being accessible to the masses."
+        },
+        {
+          "text": "Our packaged and branded product FISH STICKS BARKA contains a large percentage of fish and justifiably carries the title of PREMIUM product."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Estonia"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 250g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "10 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "140#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SARDINE IN VEGETABLE OIL BARKA",
+      "imageSrc": "/images/barka/sardina.jpg",
+      "description": [
+        {
+          "text": "Barka Sardine are produced in the place of catch, either Croatia or Morocco. According to regulations, the fish must meet the strictest standards required for extra quality."
+        },
+        {
+          "text": "Sunflower oil, whole pieces of fish without heads and guts, in their entirety, represent a refined, distinctively good product that leaves even the greatest seafood lovers impressed."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Morocco"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 125g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "50 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "99#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": []
+      }
+    },
+    {
+      "title": "MACKEREL BARKA",
+      "imageSrc": "/images/barka/skusa.jpg",
+      "description": [
+        {
+          "text": "BARKA Mackerel is the best balanced item in terms of price and quality ratio."
+        },
+        {
+          "text": "We import the highest quality mackerel from highly developed industrial centers that use the latest technology to preserve the quality, shape, and shine of this seafood product."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Norway"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1000g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "56#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          },
+          {
+            "imageSrc": "/images/barka/bbq-grill.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SURIMI CRAB BARKA",
+      "imageSrc": "/images/barka/surimi.jpg",
+      "description": [
+        {
+          "text": "BARKA Crab meat is a finely balanced surimi product that has been coated with breadcrumbs, and is packed by the manufacturer for PRINCIPAL DUO."
+        },
+        {
+          "text": "Surimi crab BARKA is a semi-prepared product that is finished during preparation, using the chosen method, resulting in a perfect taste."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Estonia"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 1000g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "Approx. 10kg"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "48#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "SURIMI CRAB FLAVOR STICKS BARKA",
+      "imageSrc": "/images/barka/surimi-stapici-ukus-raka.jpg",
+      "description": [
+        {
+          "text": "BARKA Surimi crab flavor sticks, or BARKA Crab sticks, are pure protein products from which fats are physically removed and replaced with carefully selected mixtures of aroma and very expensive crab, lobster, or other luxury meats, which give this product a unique taste."
+        },
+        {
+          "text": "Under the BARKA brand, and according to our recipe, the manufacturer packs and finishes the surimi that is part of our assortment."
+        },
+        {
+          "text": "BARKA Surimi sticks, with their nutritional value and exclusive, mild taste, will satisfy a wide range of consumers, from seafood connoisseurs to those who are extremely selective and value their protein intake."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Lithuania"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 250g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "30x250g"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "128#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/thermometer.png",
+        "temperature": "-18°"
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": [
+          {
+            "imageSrc": "/images/barka/oven.png"
+          },
+          {
+            "imageSrc": "/images/barka/frying-pan.png"
+          },
+          {
+            "imageSrc": "/images/barka/deep-fryer.png"
+          }
+        ]
+      }
+    },
+    {
+      "title": "TUNA PIECES IN SUNFLOWER OIL BARKA",
+      "imageSrc": "/images/barka/tuna-komadna-160g.jpg",
+      "description": [
+        {
+          "text": "Barka Canned Tuna pieces are one of the many canned tuna products available on the market."
+        },
+        {
+          "text": "By selecting the highest quality, we’ve ensured the packing of the best parts of tuna from renowned factories recognized on the demanding Western European market, both for their quality and high ratings from sanitary and veterinary inspections in Europe."
+        },
+        {
+          "text": "Barka tuna pieces are made from the highest quality tuna fillet pieces, all the way to the backbone."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Thailand"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 160g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "48 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "90#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": []
+      }
+    },
+    {
+      "title": "TUNA PIECES IN SUNFLOWER OIL BARKA",
+      "imageSrc": "/images/barka/tuna-komadna-185g.jpg",
+      "description": [
+        {
+          "text": "Barka Canned Tuna pieces are one of the many canned tuna products available on the market."
+        },
+        {
+          "text": "By selecting the highest quality, we’ve ensured the packing of the best parts of tuna from renowned factories recognized on the demanding Western European market, both for their quality and high ratings from sanitary and veterinary inspections in Europe."
+        },
+        {
+          "text": "Barka tuna pieces are made from the highest quality tuna fillet pieces, all the way to the backbone."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Thailand"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 185g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "48 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "100#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": []
+      }
+    },
+    {
+      "title": "TUNA CRUMBLES IN SUNFLOWER OIL BARKA",
+      "imageSrc": "/images/barka/tuna-mrvljena-160g.jpg",
+      "description": [
+        {
+          "text": "Barka Canned Tuna crumbles are one of the many canned tuna products available on the market."
+        },
+        {
+          "text": "By selecting the highest quality, we’ve ensured the packing of the best parts of tuna from renowned factories recognized on the demanding Western European market, both for their quality and high ratings from sanitary and veterinary inspections in Europe."
+        },
+        {
+          "text": "Barka tuna crumbles come from the fillet of the spinal and abdominal muscles, as well as other parts that could not fit into the whole canned tuna Barka."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Thailand"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 160g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "48 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "100#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": []
+      }
+    },
+    {
+      "title": "TUNA CRUMBLES IN SUNFLOWER OIL BARKA",
+      "imageSrc": "/images/barka/tuna-mrvljena-185g.jpg",
+      "description": [
+        {
+          "text": "Barka Canned Tuna crumbles are one of the many canned tuna products available on the market."
+        },
+        {
+          "text": "By selecting the highest quality, we’ve ensured the packing of the best parts of tuna from renowned factories recognized on the demanding Western European market, both for their quality and high ratings from sanitary and veterinary inspections in Europe."
+        },
+        {
+          "text": "Barka tuna crumbles come from the fillet of the spinal and abdominal muscles, as well as other parts that could not fit into the whole canned tuna Barka."
+        }
+      ],
+      "country": {
+        "label": "Country of origin:",
+        "text": "Thailand"
+      },
+      "comercialPack": {
+        "label": "Commercial packaging:",
+        "text": "Approx. 185g"
+      },
+      "transportPack": {
+        "label": "Transport packaging:",
+        "text": "48 pieces"
+      },
+      "packNumber": {
+        "label": "Packages per pallet:",
+        "text": "90#"
+      },
+      "storageMethod": {
+        "label": "Storage method:",
+        "imageSrc": "/images/barka/keep-dry.png",
+        "temperature": ""
+      },
+      "preparationMethod": {
+        "label": "Preparation method:",
+        "images": []
+      }
+    }
+  ]
+}

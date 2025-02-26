@@ -1,0 +1,1784 @@
+{
+  "title": "Offer",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "link": ""
+    },
+    {
+      "name": "Offer",
+      "link": "offer"
+    }
+  ],
+  "cards": [
+    {
+      "icon": "/images/offer/swiper/fish.png",
+      "text": "Bulk </br> program",
+      "items": [
+        {
+          "title": "OSLIĆ HEK HUBSI - HAKE - MARLUCCIUS HUBBSI",
+          "imageSrc": "/images/offer/categories/oslic-hek.jpg",
+          "about": "Fish from wild catch, family Merluccius. It is caught in the Atlantic Ocean, off the coasts of Uruguay, Argentina, and Antarctica.",
+          "table": [
+            {
+              "column1": "Headless, gutted, tailless - Interleaved",
+              "column2": "HGT-ITLV",
+              "column3": "100-200g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Interleaved",
+              "column2": "HGT-ITLV",
+              "column3": "200-300g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Individually packed/wrapped",
+              "column2": "HGT-IVP",
+              "column3": "300-450g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Individually packed/wrapped",
+              "column2": "HGT-IVP",
+              "column3": "450-650g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Individually packed/wrapped",
+              "column2": "HGT-IVP",
+              "column3": "650-850g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Individually packed/wrapped",
+              "column2": "HGT-IVP",
+              "column3": "500-800g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Individually packed/wrapped",
+              "column2": "HGT-IVP",
+              "column3": "600-900g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Individually packed/wrapped",
+              "column2": "HGT-IVP",
+              "column3": "800-1200g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Individually packed/wrapped",
+              "column2": "HGT-IVP",
+              "column3": "1200-1500g"
+            },
+            {
+              "column1": "Fillets, skinless",
+              "column2": "Fillets, Skinless - ITLV",
+              "column3": "450-650g"
+            }
+          ]
+        },
+        {
+          "title": "OSLIĆ HEK - HAKE WHITING - Merluccius productus",
+          "imageSrc": "/images/offer/categories/oslic-hek.jpg",
+          "about": "Fish from wild catch, family Merluccius. It is caught in the Atlantic Ocean, off the coasts of Uruguay, Argentina, and Antarctica.",
+          "table": [
+            {
+              "column1": "Headless, gutted, tailless - Individually quick frozen",
+              "column2": "HGT-IQF",
+              "column3": "225-500g"
+            }
+          ]
+        },
+        {
+          "title": "OSLIĆ HOKI - HOKI - Macruronus magellanicus",
+          "imageSrc": "/images/offer/categories/oslic-hoki.jpg",
+          "about": "Fish from wild catch, family Merluccius. It is caught in the Atlantic Ocean, off the coasts of Uruguay, Argentina, and Antarctica.",
+          "table": [
+            {
+              "column1": "Headless, gutted, tailless - Interleaved",
+              "column2": "HGT-ITLV",
+              "column3": "200-400g"
+            },
+            {
+              "column1": "Headless, gutted, tailless - Interleaved",
+              "column2": "HGT-ITLV",
+              "column3": "300-500g"
+            }
+          ]
+        },
+        {
+          "title": "LOSOS - SALMON ATLANTIC - SalmoSalar",
+          "imageSrc": "/images/offer/categories/losos.jpg",
+          "about": "Fish from wild catch, family Salmonidae. It is caught in the northeast Pacific, off the coasts of Canada and the USA.",
+          "table": [
+            {
+              "column1": "Whole - individually quick frozen",
+              "column2": "HG-IQF",
+              "column3": "2000-3000g"
+            },
+            {
+              "column1": "Cutlet, A class",
+              "column2": "Steak / Cutlet",
+              "column3": " "
+            },
+            {
+              "column1": "Cutlet, B class",
+              "column2": "Steak / Cutlet",
+              "column3": " "
+            },
+            {
+              "column1": "Pieces, tails",
+              "column2": "Tails",
+              "column3": " "
+            },
+            {
+              "column1": "Fillets, salmon trout - 10% glaze, with bones",
+              "column2": "Fillets, 10%g laze - with bones - IQF",
+              "column3": " "
+            },
+            {
+              "column1": "Fillets, salmon trout - 10% glaze, boneless",
+              "column2": "Fillets, 10% glaze - boneless - IQF",
+              "column3": " "
+            }
+          ]
+        },
+        {
+          "title": "PAPALINA - SPRAT - Sprattus sprattus",
+          "imageSrc": "/images/offer/categories/papalina.jpg",
+          "about": "Caught in the Baltic Sea with special preparation for human consumption.",
+          "table": [
+            {
+              "column1": "Individually quick frozen",
+              "column2": "WR-IQF",
+              "column3": "90-110 pcs"
+            }
+          ]
+        },
+        {
+          "title": "SKUŠA - ATLANTIC MACKEREL - Scomber scombrus",
+          "imageSrc": "/images/offer/categories/skusa.jpg",
+          "about": "Caught in the North Sea, known for its well-balanced price-to-quality ratio.",
+          "table": [
+            {
+              "column1": "Whole, uncleaned - block",
+              "column2": "WR-BLOK",
+              "column3": "150-250g"
+            },
+            {
+              "column1": "Whole, uncleaned - block",
+              "column2": "WR-BLOK",
+              "column3": "200-400g"
+            },
+            {
+              "column1": "Whole, uncleaned - block",
+              "column2": "WR-BLOK",
+              "column3": "300-500g"
+            }
+          ]
+        },
+        {
+          "title": "ALJAŠKA KOLJA - ALASKA POLLOCK - Theragra chalcogramma",
+          "imageSrc": "/images/offer/categories/aljaska-kolja.jpg",
+          "about": "Caught in the Bering Sea, off the coasts of Canada and Alaska.",
+          "table": [
+            {
+              "column1": "Headless, gutted, tailless - Individually quick frozen",
+              "column2": "HGT-IQF",
+              "column3": "200-400g"
+            },
+            {
+              "column1": "Fillets, skinless - Individually quick frozen, 35% glaze",
+              "column2": "Fillets, Skinless - IQF",
+              "column3": "190-250g"
+            },
+            {
+              "column1": "Fillets, skinless - Individually quick frozen, 25% glaze",
+              "column2": "Fillets, Skinless - IQF",
+              "column3": "190-250g"
+            },
+            {
+              "column1": "Fillets, skinless - Individually quick frozen, 35% glaze",
+              "column2": "Fillets, Skinless - IQF",
+              "column3": "300-400g"
+            }
+          ]
+        },
+        {
+          "title": "PASTRMKA - CALIFORNIAN TROUT - Oncorhynchus mykiss",
+          "imageSrc": "/images/offer/categories/pastrmka.jpg",
+          "about": "Lives in crystal-clear waters. It is farmed and specially prepared to ensure it is always freshly produced for our needs.",
+          "table": [
+            {
+              "column1": "Cleaned - Individually quick frozen",
+              "column2": "G-IQF",
+              "column3": "200-350g"
+            },
+            {
+              "column1": "Gutted - 10% glaze - Individually quick frozen",
+              "column2": "G-10%glaze-IQF",
+              "column3": "200-300g"
+            },
+            {
+              "column1": "Gutted - 10% glaze - Individually quick frozen",
+              "column2": "G-10%glaze-IQF",
+              "column3": "300-400g"
+            },
+            {
+              "column1": "Gutted - 10% glaze - Individually quick frozen",
+              "column2": "G-10%glaze-IQF",
+              "column3": "400-600g"
+            },
+            {
+              "column1": "Fillets, gutted - Individually quick frozen",
+              "column2": "Fillets, without glaze - IQF",
+              "column3": "160-200g"
+            },
+            {
+              "column1": "Fillets, salmon trout - 10% glaze, with bones",
+              "column2": "Fillets, 10% glaze - with bones - IQF",
+              "column3": "150-300g"
+            },
+            {
+              "column1": "Fillets, salmon trout - 10% glaze, boneless",
+              "column2": "Fillets, 10% glaze - boneless - IQF",
+              "column3": "150-300g"
+            }
+          ]
+        },
+        {
+          "title": "CRVENA RIBA - RED FISH - Sebastes spp.",
+          "imageSrc": "/images/offer/categories/crvena-riba.jpg",
+          "about": "Caught in icy northern waters at depths below 500m, even reaching 2000m.",
+          "table": [
+            {
+              "column1": "Headless, gutted - Block",
+              "column2": "HG-BLOCK",
+              "column3": "200-300g"
+            },
+            {
+              "column1": "Headless, gutted - Block",
+              "column2": "HG-BLOCK",
+              "column3": "300-500g"
+            },
+            {
+              "column1": "Fillets, skinless - Individually quick frozen",
+              "column2": "Fillets, skinless - with bones - IQF",
+              "column3": "200-500g"
+            }
+          ]
+        },
+        {
+          "title": "PANGAZIUS - PANGA CATFISH - Pangasinodon hypophthalmus",
+          "imageSrc": "/images/offer/categories/pangazius.jpg",
+          "about": "Farmed in Asian warm waters. This fish is known for excellent growth, and the pangasius from our offer is exclusively caught in strictly controlled, clean, and healthy waters.",
+          "table": [
+            {
+              "column1": "Fillets, PREMIUM - 20% glaze",
+              "column2": "Fillets, PREMIUM - 20% glaze",
+              "column3": "220g"
+            },
+            {
+              "column1": "Fillets, PREMIUM - 20% glaze",
+              "column2": "Fillets, PREMIUM - 20% glaze",
+              "column3": "90-120g"
+            },
+            {
+              "column1": "Fillets, PREMIUM - without glaze",
+              "column2": "Fillets, PREMIUM - without glaze",
+              "column3": "150-200g"
+            },
+            {
+              "column1": "Fillets, NATURAL - 20% glaze - Individually quick frozen",
+              "column2": "Fillets, NATURAL - 20% glaze - IQF",
+              "column3": "400g"
+            }
+          ]
+        },
+        {
+          "title": "HARINGA - ATLANTIC HERRING - Clupea harengus",
+          "imageSrc": "/images/offer/categories/haringa.jpg",
+          "about": "Caught in the North Sea. Known for its well-balanced price-to-quality ratio.",
+          "table": [
+            {
+              "column1": "Whole, uncleaned - block",
+              "column2": "WR-BLOCK",
+              "column3": "250g+"
+            }
+          ]
+        },
+        {
+          "title": "BRANCIN - SEA BASS - Dicentrarchus labrax",
+          "imageSrc": "/images/offer/categories/brancin.jpg",
+          "about": "A high-quality fish farmed in clean Mediterranean waters.",
+          "table": [
+            {
+              "column1": "Cleaned - 10% glaze - Individually quick frozen",
+              "column2": "G-10% glaze - IQF",
+              "column3": "300-400g"
+            }
+          ]
+        },
+        {
+          "title": "ORADA - SEA BREAM - Sparus aurata",
+          "imageSrc": "/images/offer/categories/orada.jpg",
+          "about": "A fish that inhabits clean Mediterranean waters and is highly valued in restaurants worldwide.",
+          "table": [
+            {
+              "column1": "10% glaze - Individually quick frozen",
+              "column2": "G-10% glaze - IQF",
+              "column3": "300-400g"
+            },
+            {
+              "column1": "Cleaned - 10% glaze - Individually quick frozen",
+              "column2": "G-10% glaze - IQF",
+              "column3": "300-400g"
+            }
+          ]
+        },
+        {
+          "title": "ŠARAN - CARP - Cyprinus carpio",
+          "imageSrc": "/images/offer/categories/saran.jpg",
+          "about": "A high-quality fish farmed in clean Mediterranean waters.",
+          "table": [
+            {
+              "column1": "Steak",
+              "column2": "Steak",
+              "column3": "150g"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA PATAGONIKA - PATAGONIAN SQUID - Loligo gahi",
+          "imageSrc": "/images/offer/categories/lignja-patagonika.jpg",
+          "about": "Caught in the Falkland Islands region. Rich in good cholesterol and popular in restaurant offerings worldwide.",
+          "table": [
+            {
+              "column1": "C4 - whole - block",
+              "column2": "C4-WR-BLOCK",
+              "column3": "10-12cm"
+            },
+            {
+              "column1": "C5 - whole - block",
+              "column2": "C5-WR-BLOCK",
+              "column3": "7-9cm"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA ILLEX - ILLEX SQUID - Illex argentinus",
+          "imageSrc": "/images/offer/categories/lignja-illex.jpg",
+          "about": "Caught in the Falkland Islands region. Rich in good cholesterol and popular in restaurant offerings worldwide.",
+          "table": [
+            {
+              "column1": "Whole - block",
+              "column2": "WR-BLOCK",
+              "column3": "50-100g"
+            }
+          ]
+        },
+        {
+          "title": "GAMBORI - RED SHRIMP - Solenocera melantho",
+          "imageSrc": "/images/offer/categories/gambori.jpg",
+          "about": "Carefully planned September shrimp catch ensures consistent supply. Thanks to excellent, long-standing connections with producers, our shrimp assortment is fresh, frozen, and available year-round.",
+          "table": [
+            {
+              "column1": "Cleaned - Individually quick frozen",
+              "column2": "IQF",
+              "column3": "30-50 pcs"
+            },
+            {
+              "column1": "Cleaned - Individually quick frozen",
+              "column2": "IQF",
+              "column3": "50-70 pcs"
+            },
+            {
+              "column1": "Cleaned - Individually quick frozen",
+              "column2": "IQF",
+              "column3": "70-100 pcs"
+            },
+            {
+              "column1": "Cleaned - Individually quick frozen",
+              "column2": "IQF",
+              "column3": "100-200 pcs"
+            },
+            {
+              "column1": "Whole, L1",
+              "column2": "WR",
+              "column3": "10-20 pcs/kg"
+            },
+            {
+              "column1": "Whole, L2",
+              "column2": "WR",
+              "column3": "21-30 pcs/kg"
+            }
+          ]
+        },
+        {
+          "title": "DAGNJE - MUSSEL - Mytilus edulis",
+          "imageSrc": "/images/offer/categories/dagnje.jpg",
+          "about": "Very rich taste of Chilean mussels, which are cultivated and supplied fresh according to market needs that we constantly monitor.",
+          "table": [
+            {
+              "column1": "Cleaned - Each individually frozen - uncalibrated",
+              "column2": "IQF-UNCALIBRATED",
+              "column3": " "
+            },
+            {
+              "column1": "Whole in shell",
+              "column2": "WR",
+              "column3": "60-80pcs"
+            }
+          ]
+        },
+        {
+          "title": "PLODOVI MORA - SEAFOOD COCKTAIL",
+          "imageSrc": "/images/offer/categories/plodovi-mora.jpg",
+          "about": "A mix of the highest quality shrimp, mussels, and crab sticks, created according to traditional market demands, is always present in our assortment.",
+          "table": [
+            {
+              "column1": "Individually",
+              "column2": "IQF"
+            }
+          ]
+        },
+        {
+          "title": "KRABA ŠTAPIĆI - SURIMI",
+          "imageSrc": "/images/offer/categories/kraba-stapici.jpg",
+          "about": "The product is made from fish meat parts without fat, aimed at extracting pure fish protein, which plays an important role in the normal functioning of every organism.",
+          "table": [
+            {
+              "column1": "Surimi",
+              "column2": "BLOK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fried-fish.png",
+      "text": "Breaded </br> program",
+      "items": [
+        {
+          "title": "BREADED HAKE HEK",
+          "imageSrc": "/images/offer/categories/panirani-oslic.jpg",
+          "about": "Fish from wild catch, family Merluccius. Caught in the Atlantic Ocean, off the coasts of Uruguay, Argentina, and Antarctica.",
+          "table": [
+            {
+              "column1": "Fillets - each individually frozen",
+              "column2": "Fillets, Pack",
+              "column3": "Packaged",
+              "column4": "CONGALSA",
+              "column5": "100g/pcs"
+            }
+          ]
+        },
+        {
+          "title": "BREADED SQUID",
+          "imageSrc": "/images/offer/categories/panirana-lignja.jpg",
+          "about": "Caught in the Falkland Islands area. Rich in good cholesterol, it is popular in restaurant menus worldwide.",
+          "table": [
+            {
+              "column1": "Sticks",
+              "column2": "Sticks, pack",
+              "column3": "Packaged",
+              "column4": "BARKA",
+              "column5": "250g"
+            },
+            {
+              "column1": "Sticks, 47% squid - Each individually frozen",
+              "column2": "Sticks, 47% squid - IQF",
+              "column3": "Loose",
+              "column4": "VICI",
+              "column5": "25g/pcs"
+            },
+            {
+              "column1": "Rings, 51% squid - Each individually frozen",
+              "column2": "Rings, 51% squid - IQF",
+              "column3": "Loose",
+              "column4": "VICI",
+              "column5": "14g/pcs"
+            },
+            {
+              "column1": "Rings, 45% squid",
+              "column2": "Rings, 45% squid - IQF",
+              "column3": "Packaged",
+              "column4": "CONGALSA",
+              "column5": "14g/pcs"
+            }
+          ]
+        },
+        {
+          "title": "BREADED FISH STICKERS",
+          "imageSrc": "/images/offer/categories/panirani-riblji-stapici.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Sticks, 40% fish",
+              "column2": "Sticks, 40% fish, pack",
+              "column3": "Packaged",
+              "column4": "BARKA",
+              "column5": "250g"
+            },
+            {
+              "column1": "Sticks, 40% fish - Each individually frozen",
+              "column2": "Sticks, 40% fish - IQF",
+              "column3": "Loose",
+              "column4": "VICI",
+              "column5": "25g/pcs"
+            }
+          ]
+        },
+        {
+          "title": "BREADED FISH BURGERS",
+          "imageSrc": "/images/offer/categories/panirane-riblje-pljeskavice.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Burgers, 50% fish",
+              "column2": "Burgers, 50% fish, pack",
+              "column3": "Packaged",
+              "column4": "BARKA",
+              "column5": "250g"
+            },
+            {
+              "column1": "Burgers, 40% fish - Each individually frozen",
+              "column2": "Burgers, 50% fish - IQF",
+              "column3": "Loose",
+              "column4": "VICI",
+              "column5": "75g/pcs"
+            }
+          ]
+        },
+        {
+          "title": "BREADED PORTIONS OF BURGER",
+          "imageSrc": "/images/offer/categories/panirane-porcije-pljeskavice.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Burgers, 65% fish - Each individually frozen",
+              "column2": "Burgers, 65% fish - IQF",
+              "column3": "Loose",
+              "column4": "VICI",
+              "column5": "100g/pcs"
+            },
+            {
+              "column1": "Burgers, 40% fish - Each individually frozen",
+              "column2": "Burgers, 50% fish - IQF",
+              "column3": "Loose",
+              "column4": "VICI",
+              "column5": "75g/pcs"
+            }
+          ]
+        },
+        {
+          "title": "CRAB MEAT",
+          "imageSrc": "/images/offer/categories/kraba-meso.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Whole - Each individually frozen",
+              "column2": "WR-IQF",
+              "column3": "Loose",
+              "column4": "VICI",
+              "column5": "30g/pcs"
+            },
+            {
+              "column1": "Whole",
+              "column2": "WR - PACK",
+              "column3": "Packaged",
+              "column4": "VICI",
+              "column5": "250g"
+            }
+          ]
+        },
+        {
+          "title": "BREADED VEGETABLE BURGER",
+          "imageSrc": "/images/offer/categories/panirane-pljeskavice-od-povrca.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Burgers, frozen",
+              "column2": "Burgers, frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "1125g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fish-pack.png",
+      "text": "Packaged </br> program",
+      "items": [
+        {
+          "title": "OSLIĆ HEK - HAKE WHITING - Merluccius productus",
+          "imageSrc": "/images/offer/categories/oslic-hek.jpg",
+          "about": "Wild-caught fish of the Merluccius family. It is caught in the Atlantic Ocean, along the coasts of Uruguay, Argentina and Antarctica.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "FRESCO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "OSLIĆ HOKI - HOKI - Macruronus magellanicus",
+          "imageSrc": "/images/offer/categories/oslic-hoki.jpg",
+          "about": "Wild-caught fish of the Merluccius family. It is caught in the Atlantic Ocean, along the coasts of Uruguay, Argentina and Antarctica.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "LOSOS - SALMON ATLANTIC - SalmoSalar",
+          "imageSrc": "/images/offer/categories/losos.jpg",
+          "about": "Wild-caught fish, Salmonidae family. It is caught in the North East Pacific, along the coasts of Canada and the USA.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Cutlet",
+              "column3": "CCA 1000g"
+            },
+            {
+              "column1": "PREMIA",
+              "column2": "Cutlet",
+              "column3": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "PAPALINA - SPRAT - Sprattus sprattus",
+          "imageSrc": "/images/offer/categories/papalina.jpg",
+          "about": "It is caught in the Baltic Sea with special preparation for human consumption.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "SKUŠA - ATLANTIC MACKERE - Scomber scombrus",
+          "imageSrc": "/images/offer/categories/skusa.jpg",
+          "about": "It is caught in the North Sea, but it is known for the best balanced ratio of price and quality.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "BAŠ BAŠ",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "ALJAŠKA KOLJA - ALASKA POLLOCK - Theragra chalcogramma",
+          "imageSrc": "/images/offer/categories/aljaska-kolja.jpg",
+          "about": "It is caught in the Bering Sea, along the coasts of Canada and Alaska.",
+          "table": [
+            {
+              "column1": "ARO",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "500g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "PASTRMKA - CALIFORNIAN TROUT - Oncorhynchus MYKISS",
+          "imageSrc": "/images/offer/categories/pastrmka.jpg",
+          "about": "It lives in crystal clear waters. It is grown and specially prepared so that it is always freshly produced for our needs.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g",
+              "column3": " "
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g",
+              "column3": " "
+            },
+            {
+              "column1": "Fillets",
+              "column2": "Fillets",
+              "column3": "CCA 500g"
+            }
+          ]
+        },
+        {
+          "title": "CRVENA RIBA - RED FISH - Sebastes spp.",
+          "imageSrc": "/images/offer/categories/crvena-riba.jpg",
+          "about": "It is fished in icy, northern waters at depths below 500m, even up to 2000m deep.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            },
+            {
+              "column1": "ARO",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "PANGAZIUS - PANGA CATFISH - Pangasinodon hypophtalmus",
+          "imageSrc": "/images/offer/categories/pangazius.jpg",
+          "about": "It is grown in Asian, warm waters. Fish with excellent growth, with the fact that the pangasius from our offer is caught exclusively in strictly controlled, clean, healthy waters.",
+          "table": [
+            {
+              "column1": "ARO",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "500g"
+            },
+            {
+              "column1": "DOBRO",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            },
+            {
+              "column1": "OCEAN",
+              "column2": "Fillets",
+              "column3": "Fillets",
+              "column4": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "HARINGA - ATLANTIC HERRING - Clupea harengus",
+          "imageSrc": "/images/offer/categories/haringa.jpg",
+          "about": "It is caught in the North Sea. It is known for the best balanced ratio of price and quality.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "CCA 1000g"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA PATAGONIKA - PATAGONIAN SQUID - LOLIGO GAJI",
+          "imageSrc": "/images/offer/categories/lignja-patagonika.jpg",
+          "about": "It is caught in the region of the Falkland Islands. Rich in good cholesterol, it is popular in restaurants around the world.",
+          "table": [
+            {
+              "column1": "Transparent bag",
+              "column2": "C4, cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "C4, cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "C4L, cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "C4L, cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned, rings and spokes",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned",
+              "column3": "7-9cm, 1000g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned, straps and arms",
+              "column3": "12-14cm, 1000g"
+            },
+            {
+              "column1": " ",
+              "column2": "Cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": " ",
+              "column2": "Cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "400g"
+            }
+          ]
+        },
+        {
+          "title": "LIGNJA ILLEX - ILLEX SQUID - Illex argentinus",
+          "imageSrc": "/images/offer/categories/lignja-illex.jpg",
+          "about": "It is caught in the region of the Falkland Islands. Rich in good cholesterol, it is popular in restaurants around the world.",
+          "table": [
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned, rings and spokes",
+              "column3": "400g"
+            }
+          ]
+        },
+        {
+          "title": "GAMBORI - RED SHRIMP - Solenocera melantho",
+          "imageSrc": "/images/offer/categories/gambori.jpg",
+          "about": "Very precise and planned, the September catch of gambor does not affect our procurement of them. Thanks to the built, excellent long-term business connections with producers, planned production takes place according to our needs, so that the assortment of fresh and frozen gambors is present and available in our offer throughout the year.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Cleaned",
+              "column3": "100-200 kom/500g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Cleaned",
+              "column3": "30-50 kom/500g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned",
+              "column3": "100-200 kom/400g"
+            }
+          ]
+        },
+        {
+          "title": "DAGNJE - MUSSEL - Mytilus edulis",
+          "imageSrc": "/images/offer/categories/dagnje.jpg",
+          "about": "A very rich taste of Chilean mussels that are grown and procured fresh according to the needs of the market, which we constantly listen to.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Cleaned",
+              "column3": "500g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned",
+              "column3": "100-200 kom/400g"
+            }
+          ]
+        },
+        {
+          "title": "PLODOVI MORA - SEAFOOD COCKTAIL",
+          "imageSrc": "/images/offer/categories/plodovi-mora.jpg",
+          "about": "A mix of the highest quality scallops, mussels, crab sticks made according to traditional market requirements is constantly present in our assortment.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": "Cleaned",
+              "column3": "1000g"
+            },
+            {
+              "column1": "FINE LIFE",
+              "column2": "Cleaned",
+              "column3": "500g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned",
+              "column3": "400g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Cleaned",
+              "column3": "1000g"
+            }
+          ]
+        },
+        {
+          "title": "KRABA ŠTAPIĆI - SURIMI",
+          "imageSrc": "/images/offer/categories/kraba-stapici.jpg",
+          "about": "The product is made from parts of fish meat without the participation of fat with the aim of extracting pure fish protein, the role of which is of great importance for the normal functioning of every organism.",
+          "table": [
+            {
+              "column1": "BARKA",
+              "column2": " ",
+              "column3": "30komx200g"
+            },
+            {
+              "column1": "BARKA",
+              "column2": " ",
+              "column3": "250g "
+            },
+            {
+              "column1": "BARKA",
+              "column2": " ",
+              "column3": "1000g"
+            },
+            {
+              "column1": "Transparent bag",
+              "column2": "Surimi pieces",
+              "column3": "1000g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/sardines.png",
+      "text": "Smoked </br> program",
+      "items": [
+        {
+          "title": "SMOKED SALMON",
+          "imageSrc": "/images/offer/categories/dimljeni-losos.jpg",
+          "about": "Wild-caught fish, Salmonidae family. It is caught in the North East Pacific, along the coasts of Canada and the USA..",
+          "table": [
+            {
+              "column1": "Fillets",
+              "column2": "Fillets",
+              "column3": "Packaged",
+              "column4": "100g"
+            },
+            {
+              "column1": "Fillets",
+              "column2": "Fillets",
+              "column3": "Packaged",
+              "column4": "180g"
+            },
+            {
+              "column1": "Kotlet",
+              "column2": "Steak",
+              "column3": "Packaged",
+              "column4": "CCA 500g"
+            }
+          ]
+        },
+        {
+          "title": "SMOKED MACKEREL",
+          "imageSrc": "/images/offer/categories/dimljena-skusa.jpg",
+          "about": "It is caught in the North Sea, but it is known for the best balanced ratio of price and quality.",
+          "table": [
+            {
+              "column1": "Cleaned, without intestines",
+              "column2": "G",
+              "column3": "Bulk",
+              "column4": "300-500g"
+            },
+            {
+              "column1": "Cleaned, without intestines",
+              "column2": "G",
+              "column3": "Bulk",
+              "column4": "CCA 10kg"
+            }
+          ]
+        },
+        {
+          "title": "SMOKED TROUT",
+          "imageSrc": "/images/offer/categories/dimljena-pastrmka.jpg",
+          "about": "It lives in crystal clear waters. It is grown and specially prepared so that it is always freshly produced for our needs.",
+          "table": [
+            {
+              "column1": "Fillets",
+              "column2": "Fillets",
+              "column3": "Packaged",
+              "column4": "CCA 500g"
+            },
+            {
+              "column1": "Fillets - hladno dimljeni",
+              "column2": "Cold smoked fillets",
+              "column3": "Packaged",
+              "column4": "CCA 10kg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/big-fish.png",
+      "text": "Fresh </br> program",
+      "items": [
+        {
+          "title": "TROUT",
+          "imageSrc": "/images/offer/categories/sveza-pastrmka.jpg",
+          "about": "It lives in crystal clear waters. It is grown and specially prepared so that it is always freshly produced for our needs.",
+          "table": [
+            {
+              "column1": "Whole, unpeeled, on ice",
+              "column2": "WR-IQF",
+              "column3": "BIH",
+              "column4": "250-350g"
+            },
+            {
+              "column1": "Whole, unpeeled, on ice",
+              "column2": "WR-IQF",
+              "column3": "Serbia",
+              "column4": "800g+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/tuna.png",
+      "text": "Cans",
+      "items": [
+        {
+          "title": "TUNA",
+          "imageSrc": "/images/offer/categories/tunjevina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Piece",
+              "column2": "BARKA",
+              "column3": "185g"
+            },
+            {
+              "column1": "Crumbled",
+              "column2": "BARKA",
+              "column3": "185g"
+            },
+            {
+              "column1": "Piece",
+              "column2": "BARKA",
+              "column3": "160g"
+            },
+            {
+              "column1": "Crumbled",
+              "column2": "BARKA",
+              "column3": "160g"
+            }
+          ]
+        },
+        {
+          "title": "PALM OIL",
+          "imageSrc": "/images/offer/categories/palmino-ulje.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Oil",
+              "column2": "BARKA",
+              "column3": "Indonesia",
+              "column4": "20kg"
+            }
+          ]
+        },
+        {
+          "title": "SARDINE",
+          "imageSrc": "/images/offer/categories/sardina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Piece, in vegetable oil",
+              "column2": "BARKA",
+              "column3": "",
+              "column4": "125g"
+            },
+            {
+              "column1": "Piece, in vegetable oil",
+              "column2": "BARKA",
+              "column3": "",
+              "column4": "125g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fries.png",
+      "text": "French fries and </br> potato products",
+      "items": [
+        {
+          "title": "FRIES",
+          "imageSrc": "/images/offer/categories/pomfrit.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "COUNTRY HOUSE, Frozen",
+              "column2": "COUNTRY HOUSE, Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "Rebrasti, Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "Rebrasti, Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "SUPER CRUNCH, Frozen",
+              "column2": "SUPER CRUNCH, Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "SUPER CRUNCH, Frozen",
+              "column2": "SUPER CRUNCH, Frozen",
+              "column3": "Packaged",
+              "column4": "KUKTA",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "SUPER CRUNCH, Frozen",
+              "column2": "SUPER CRUNCH, Frozen",
+              "column3": "Packaged",
+              "column4": "BARKA",
+              "column5": "1000g"
+            },
+            {
+              "column1": "SUPER CRISPY, Frozen",
+              "column2": "SUPER CRISPY, Frozen",
+              "column3": "Packaged",
+              "column4": "KUKTA",
+              "column5": "4x2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "POTATO SLICES",
+          "imageSrc": "/images/offer/categories/kriske-krompira.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "With crust, Frozen",
+              "column2": "Packaged",
+              "column3": "AVIKO",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "Spicy, Frozen",
+              "column2": "Packaged",
+              "column3": "AVIKO",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "With crust, Frozen",
+              "column2": "Packaged",
+              "column3": "KUKTA",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "Spicy, Frozen",
+              "column2": "Packaged",
+              "column3": "KUKTA",
+              "column4": "2,5kg"
+            },
+            {
+              "column1": "Sauce, Chef s Excellence",
+              "column2": "Sauce, Chef s Excellence",
+              "column3": "Packaged",
+              "column4": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "POTATO BARS",
+          "imageSrc": "/images/offer/categories/plocice-od-krompira.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "POTATO CROCKETS",
+          "imageSrc": "/images/offer/categories/kroketi-od-krompira.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "ROSTY BALLS",
+          "imageSrc": "/images/offer/categories/rosty-kuglice.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "POTATOES",
+          "imageSrc": "/images/offer/categories/krompirici.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "AVIKO",
+              "column5": "2,5kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "KUKTA",
+              "column5": "2,5kg"
+            }
+          ]
+        },
+        {
+          "title": "SWEET POTATO",
+          "imageSrc": "/images/offer/categories/slatki-krompir.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Cubes, each individually frozen",
+              "column2": "DICE-IQF",
+              "column3": "Packaged",
+              "column4": "GEDIMEX",
+              "column5": "1000g"
+            }
+          ]
+        },
+        {
+          "title": "ONION RINGS",
+          "imageSrc": "/images/offer/categories/kolutici-od-luka.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "KUKTA",
+              "column5": "1000g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/big-fish.png",
+      "text": "Vegetables",
+      "items": [
+        {
+          "title": "ĐUVEČ MIX",
+          "imageSrc": "/images/offer/categories/djuvec-mix.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Frozen, gourmet",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "SOUP MIX",
+          "imageSrc": "/images/offer/categories/corbe-mix.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Frozen, Pannonian",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "RUSSIAN SALAD",
+          "imageSrc": "/images/offer/categories/ruska-salata.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Frozen, Pannonian",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "BROCCOLI",
+          "imageSrc": "/images/offer/categories/brokoli.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "ROYAL MIXTURE",
+          "imageSrc": "/images/offer/categories/kraljevska-mesavina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Frozen, Pannonian",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "GOLDEN MIXTURE",
+          "imageSrc": "/images/offer/categories/zlatna-mesavina.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen, Pannonian",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "YELLOW GREEN BEANS",
+          "imageSrc": "/images/offer/categories/zuta-buranija.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Frozen, Pannonian",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "GREEN BEANS",
+          "imageSrc": "/images/offer/categories/zelena-boranija.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "PEAS",
+          "imageSrc": "/images/offer/categories/grasak.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "MINECOM",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "SWEET CORN",
+          "imageSrc": "/images/offer/categories/kukuruz-secerac.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Bulk",
+              "column4": "FRIGLO",
+              "column5": "10kg"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "1000g"
+            },
+            {
+              "column1": "Frozen",
+              "column2": "Frozen",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "450g"
+            }
+          ]
+        },
+        {
+          "title": "SPINACH",
+          "imageSrc": "/images/offer/categories/spanac.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Frozen, bricket",
+              "column2": "Frozen, bricket",
+              "column3": "Packaged",
+              "column4": "FRIGLO",
+              "column5": "400g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "icon": "/images/offer/swiper/fried-chicken.png",
+      "text": "Chicken products",
+      "items": [
+        {
+          "title": "CHICKEN MEDALLIONS",
+          "imageSrc": "/images/offer/categories/pileci-medaljoni.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "With kulen and feta cheese",
+              "column2": "With kulen and feta cheese",
+              "column3": "Packaged",
+              "column4": "PIKOLINA",
+              "column5": "Serbia",
+              "column6": "400g"
+            }
+          ]
+        },
+        {
+          "title": "BREADED CHICKEN STICKS",
+          "imageSrc": "/images/offer/categories/panirani-pileci-stapici.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "With sesame",
+              "column2": "With sesame",
+              "column3": "Packaged",
+              "column4": "PIKOLINA",
+              "column5": "Serbia",
+              "column6": "400g"
+            }
+          ]
+        },
+        {
+          "title": "KARAĐORĐEV'S CHICKEN",
+          "imageSrc": "/images/offer/categories/pileca-karadjordjeva.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Packaged",
+              "column2": "PIKOLINA",
+              "column3": "Serbia",
+              "column4": "400g",
+              "column5": " ",
+              "column6": " "
+            }
+          ]
+        },
+        {
+          "title": "CHICKEN VIENNA STEAK",
+          "imageSrc": "/images/offer/categories/pileca-becka-snicla.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "Packaged",
+              "column2": "PIKOLINA",
+              "column3": "Serbia",
+              "column4": "400g"
+            }
+          ]
+        },
+        {
+          "title": "CHICKEN KEBABS",
+          "imageSrc": "/images/offer/categories/no-image.webp",
+          "about": "",
+          "table": [
+            {
+              "column1": "Packaged",
+              "column2": "PIKOLINA",
+              "column3": "Serbia",
+              "column4": "500g"
+            }
+          ]
+        },
+        {
+          "title": "ROLLED CHICKEN",
+          "imageSrc": "/images/offer/categories/rolovano-pile.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "With bacon, cheese, mushrooms",
+              "column2": "With bacon, cheese, mushrooms",
+              "column3": "Packaged",
+              "column4": "PIKOLINA",
+              "column5": "Serbia",
+              "column6": "CCA 1kg"
+            }
+          ]
+        },
+        {
+          "title": "LASAGNE BOLOGNESE",
+          "imageSrc": "/images/offer/categories/lazanje-bolonjeze.jpg",
+          "about": "",
+          "table": [
+            {
+              "column1": "With chicken white meat",
+              "column2": "With chicken white meat",
+              "column3": "Packaged",
+              "column4": "PIKOLINA",
+              "column5": "Serbia",
+              "column6": "700g"
+            }
+          ]
+        },
+        {
+          "title": "FRIED CHEESE",
+          "imageSrc": "/images/offer/categories/no-image.webp",
+          "about": "",
+          "table": [
+            {
+              "column1": "Packaged",
+              "column2": "PIKOLINA",
+              "column3": "Serbia",
+              "column4": "300g"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

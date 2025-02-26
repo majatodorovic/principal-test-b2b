@@ -1,0 +1,84 @@
+{
+  "title": "Production - Fish Processing",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "link": ""
+    },
+    {
+      "name": "Production - Fish Processing",
+      "link": "production"
+    }
+  ],
+  "standards": [
+    {
+      "text": "Our production facility holds the highest ratings in the field of applied hygienic and sanitary measures."
+    },
+    {
+      "text": "Employees, with long-standing experience and expertise, skillfully handle the most demanding processes of fish filleting and preparation for consumption."
+    },
+    {
+      "text": "The equipment and machinery we use are of the latest generation and meet all the demands of the European market."
+    },
+    {
+      "text": "We clean, fillet, and refine fish and seafood to bring them closer to the consumer."
+    },
+    {
+      "text": "Our work processes and packaging fully comply with current ecological standards."
+    }
+  ],
+  "privateBrand": {
+    "title": "Private Labels - Contract Processing and Packaging",
+    "description": [
+      {
+        "text": "The turnover of goods imported by <strong>Principal Duo</strong> is significantly higher than that of competing firms. The goods are always fresh. In our new facility, equipped with modern fish processing and packaging equipment and established good manufacturing practices, we package private labels for a large number of clients."
+      },
+      {
+        "text": "The quality of the packaged products is perfectly balanced based on the clearly defined requirements of the parent companies for which the goods are processed and packaged within our organization."
+      }
+    ]
+  },
+  "preparingTitle": "Preparation for Further Sale",
+  "cleaning": {
+    "title": "Cleaning",
+    "description": [
+      {
+        "text": "Cleaning fish and seafood is a process where we turn whole fish into cuts requested by the customer. These processes are reviewed and relicensed annually in accordance with international standards in food preparation."
+      },
+      {
+        "text": "After our refining and cleaning, the consumer can proceed with thermal preparation and consumption of the product."
+      }
+    ],
+    "imageSrc": "/images/production/dedicated-fish.jpg",
+    "seeVideo": "Watch Video",
+    "videoSrc": "/videos/production/ciscenje.mp4"
+  },
+  "filleting": {
+    "title": "Filleting",
+    "description": [
+      {
+        "text": "Filleting is the process of separating fish meat from bones. Currently, the filleting process is done manually."
+      },
+      {
+        "text": "After cutting the boneless parts of the fish, an additional check for bones within the fillet is performed as an extra level of control. The fish is then packaged according to the requirements of the client or consumer, in appropriate sizes and production methods. If market demand arises, machines for filleting may also be introduced."
+      }
+    ],
+    "imageSrc": "/images/production/skilled-worker.jpg",
+    "seeVideo": "Watch Video",
+    "videoSrc": "/videos/production/filetiranje.mp4"
+  },
+  "smoking": {
+    "title": "Smoking",
+    "description": [
+      {
+        "text": "Smoking fish is a process highly prevalent in the NORTHERN HEMISPHERE as a method of preservation. It is divided into cold smoking and hot smoking."
+      },
+      {
+        "text": "In our market, only a few items are recognized—smoked carp, trout, and salmon. We prepare and smoke them based on demand. These products are available year-round in sufficient quantities."
+      }
+    ],
+    "imageSrc": "/images/production/smoked-fish.jpg",
+    "seeVideo": "Watch Video",
+    "videoSrc": "/videos/production/dimljenje.mp4"
+  }
+}

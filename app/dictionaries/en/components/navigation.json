@@ -1,0 +1,40 @@
+{
+  "languages": {
+    "button": "Language",
+    "list": [{ "name": "en" }, { "name": "sr" }]
+  },
+  "links": [
+    {
+      "text": "Home",
+      "href": ""
+    },
+    {
+      "text": "Import",
+      "href": "/import"
+    },
+    {
+      "text": "Offer",
+      "href": "/offer"
+    },
+    {
+      "text": "Production",
+      "href": "/production"
+    },
+    {
+      "text": "Fish Markets",
+      "href": "/fishmarkets"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Contact",
+      "href": "/contact"
+    },
+    {
+      "text": "Barka",
+      "href": "/barka"
+    }
+  ]
+}
