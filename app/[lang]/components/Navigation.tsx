@@ -71,9 +71,9 @@ export default function Navigation({ data, lang }: any) {
             },
           )}
         </div>
-        <Link 
-          href=" https://b2b.principal.croonus.com/prijava" 
-          className="hidden sm:flex items-center space-x-2"
+      <Link 
+        href=" https://b2b.principal.croonus.com/prijava" 
+        className="items-center space-x-2 sm:flex hidden"
         >
           <Image
             src="/images/navigation/b2b.png"
@@ -82,7 +82,9 @@ export default function Navigation({ data, lang }: any) {
             height={24}
             className="blueFilter h-5 w-5 2xl:h-7 2xl:w-7"
           />
-          <span className="text-sm font-semibold text-blue xl:text-base">B2B</span>
+          <span className="text-sm font-semibold text-blue xl:text-base">
+            B2B
+          </span>
         </Link>
         <div className="relative hidden items-center gap-2 xl:flex">
           <Image
@@ -191,7 +193,10 @@ export default function Navigation({ data, lang }: any) {
         </div>
 
         <div className="mt-6 border-t pt-6">
-          <Link href="https://b2b.principal.croonus.com/prijava" className="xl:hidden">
+          <Link 
+            href="https://b2b.principal.croonus.com/prijava" 
+            className="xl:hidden"
+          >
             <div className="mt-4 flex items-center gap-2">
               <Image
                 src="/images/navigation/b2b.png"
