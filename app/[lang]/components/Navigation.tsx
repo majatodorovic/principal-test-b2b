@@ -71,7 +71,7 @@ export default function Navigation({ data, lang }: any) {
             },
           )}
         </div>
-        <Link
+      <Link
           href="https://b2b.principal.croonus.com/prijava" 
           className="hidden items-center space-x-2 sm:flex"
         >
@@ -193,10 +193,10 @@ export default function Navigation({ data, lang }: any) {
         </div>
 
         <div className="mt-6 border-t pt-6">
-        <Link 
+    <Link 
           href="https://b2b.principal.croonus.com/prijava" 
           className="xl:hidden"
-        >
+    >
             <div className="mt-4 flex items-center gap-2">
               <Image
                 src="/images/navigation/b2b.png"
